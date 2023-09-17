@@ -1,0 +1,1697 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Intro KristoTeVe" tvg-logo="http://kristoteve.sportsontheweb.net/alientv.png",Intro KristoTeVe
+http://kristoteve.sportsontheweb.net/video_maniak.mp4
+#EXTINF:-1 tvg-name="+ + + + + + + T D T + + + + + + + +" group-title="ESPAÑA",+ + + + + + + T D T + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=178030
+#EXTINF:-1 tvg-id="la1.es" tvg-name="La 1 SD" tvg-logo="http://discusfish.xyz:25461/images/14db5ba93460bc2fed9a10f4df7eacf2.jpg" group-title="ESPAÑA",La 1 SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178031
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="La 1 HD" tvg-logo="http://discusfish.xyz:25461/images/14db5ba93460bc2fed9a10f4df7eacf2.jpg" group-title="ESPAÑA",La 1 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178032
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="La 1 FHD" tvg-logo="http://discusfish.xyz:25461/images/14db5ba93460bc2fed9a10f4df7eacf2.jpg" group-title="ESPAÑA",La 1 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178033
+#EXTINF:-1 tvg-id="La 2 HD" tvg-name="La 2 SD" tvg-logo="http://discusfish.xyz:25461/images/12c97692d21da7a1843275600c71ed39.jpg" group-title="ESPAÑA",La 2 SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178034
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2 HD" tvg-logo="http://discusfish.xyz:25461/images/12c97692d21da7a1843275600c71ed39.jpg" group-title="ESPAÑA",La 2 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178035
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2 FHD" tvg-logo="http://discusfish.xyz:25461/images/12c97692d21da7a1843275600c71ed39.jpg" group-title="ESPAÑA",La 2 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178036
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="Antena 3 SD" tvg-logo="http://discusfish.xyz:25461/images/73f4108243a4e9e65888ca4d7b80270b.jpg" group-title="ESPAÑA",Antena 3 SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178037
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="Antena 3 HD" tvg-logo="http://discusfish.xyz:25461/images/73f4108243a4e9e65888ca4d7b80270b.jpg" group-title="ESPAÑA",Antena 3 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178038
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="Antena 3 FHD" tvg-logo="http://discusfish.xyz:25461/images/73f4108243a4e9e65888ca4d7b80270b.jpg" group-title="ESPAÑA",Antena 3 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178039
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="Cuatro SD" tvg-logo="http://discusfish.xyz:25461/images/488e788a513046c2ac746ccf3399cce5.png" group-title="ESPAÑA",Cuatro SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178040
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="Cuatro HD" tvg-logo="http://discusfish.xyz:25461/images/488e788a513046c2ac746ccf3399cce5.png" group-title="ESPAÑA",Cuatro HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178041
+#EXTINF:-1 tvg-id="CUATRO FHD" tvg-name="Cuatro FHD" tvg-logo="http://discusfish.xyz:25461/images/488e788a513046c2ac746ccf3399cce5.png" group-title="ESPAÑA",Cuatro FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178042
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="Telecinco SD" tvg-logo="http://discusfish.xyz:25461/images/655f3f50095c2c8ba3782343ed632dcc.png" group-title="ESPAÑA",Telecinco SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178043
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="Telecinco HD" tvg-logo="http://discusfish.xyz:25461/images/655f3f50095c2c8ba3782343ed632dcc.png" group-title="ESPAÑA",Telecinco HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178044
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="Telecinco FHD" tvg-logo="http://discusfish.xyz:25461/images/655f3f50095c2c8ba3782343ed632dcc.png" group-title="ESPAÑA",Telecinco FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=181913
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="La Sexta SD" tvg-logo="http://discusfish.xyz:25461/images/14d497d554f56b361d3ceab638eb8c5b.jpg" group-title="ESPAÑA",La Sexta SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178045
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="La Sexta HD" tvg-logo="http://discusfish.xyz:25461/images/14d497d554f56b361d3ceab638eb8c5b.jpg" group-title="ESPAÑA",La Sexta HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178046
+#EXTINF:-1 tvg-id="lasxta.es" tvg-name="La Sexta FHD" tvg-logo="http://discusfish.xyz:25461/images/14d497d554f56b361d3ceab638eb8c5b.jpg" group-title="ESPAÑA",La Sexta FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178047
+#EXTINF:-1 tvg-name="El Toro TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnSiW8l3ksQB27CyfaJab8_eCqh1_ll-Y2UbEgiA5SD8sFpNgh&s" group-title="ESPAÑA",El Toro TV
+http://kristoteve.sportsontheweb.net/botijo/?c=178048
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 Horas" tvg-logo="http://discusfish.xyz:25461/images/502b9534f21e093bf6ef1fc7657e0a16.png" group-title="ESPAÑA",24 Horas
+http://kristoteve.sportsontheweb.net/botijo/?c=178049
+#EXTINF:-1 tvg-name="+ + + + + ESTILO DE VIDA + + + + + +" group-title="ESPAÑA",+ + + + + ESTILO DE VIDA + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=178050
+#EXTINF:-1 tvg-id="NOVA" tvg-name="Nova HD" tvg-logo="http://discusfish.xyz:25461/images/5205e53e92b6420b9721e2de793d990c.jpg" group-title="ESPAÑA",Nova HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178051
+#EXTINF:-1 tvg-id="NOVA" tvg-name="Nova FHD" tvg-logo="http://discusfish.xyz:25461/images/5205e53e92b6420b9721e2de793d990c.jpg" group-title="ESPAÑA",Nova FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178052
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="Divinity SD" tvg-logo="http://pro.xviptv.com:25443/servijuma/YOLKWIRVNX/59726" group-title="ESPAÑA",Divinity SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178053
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="Divinity HD" tvg-logo="http://discusfish.xyz:25461/images/94a9a5dcad692a3f4ca1d6b18bb33fd4.jpg" group-title="ESPAÑA",Divinity HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178054
+#EXTINF:-1 tvg-id="CANAL COCINA" tvg-name="Canal Cocina HD" tvg-logo="http://discusfish.xyz:25461/images/bc3ad21cb37032664a784a611bdc3431.jpg" group-title="ESPAÑA",Canal Cocina HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178055
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="Canal Cocina FHD" tvg-logo="http://discusfish.xyz:25461/images/bc3ad21cb37032664a784a611bdc3431.jpg" group-title="ESPAÑA",Canal Cocina FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178056
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="DeCasa HD" tvg-logo="http://discusfish.xyz:25461/images/5039f7b19fd1975ca6c5251415ac988a.jpg" group-title="ESPAÑA",DeCasa HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178057
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="DeCasa FHD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/decasa.jpg" group-title="ESPAÑA",DeCasa FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178058
+#EXTINF:-1 tvg-id="DKISS" tvg-name="Dkiss SD" tvg-logo="http://discusfish.xyz:25461/images/3cef7b0ac357c339506355d8234d9a7e.jpg" group-title="ESPAÑA",Dkiss SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178059
+#EXTINF:-1 tvg-id="DKISS" tvg-name="Dkiss HD" tvg-logo="http://discusfish.xyz:25461/images/DKiss.jpg" group-title="ESPAÑA",Dkiss HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178060
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="Be Mad SD" tvg-logo="http://discusfish.xyz:25461/images/2f397144c8d8148e51e8c8392abfdcbe.png" group-title="ESPAÑA",Be Mad SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178061
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="Be Mad FHD" tvg-logo="http://discusfish.xyz:25461/images/2f397144c8d8148e51e8c8392abfdcbe.png" group-title="ESPAÑA",Be Mad FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178062
+#EXTINF:-1 tvg-id="NEOX" tvg-name="Neox HD" tvg-logo="http://discusfish.xyz:25461/images/28189d8022ae217a3be20a0abb1b18b8.jpg" group-title="ESPAÑA",Neox HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178063
+#EXTINF:-1 tvg-id="NEOX" tvg-name="Neox FHD" tvg-logo="http://discusfish.xyz:25461/images/28189d8022ae217a3be20a0abb1b18b8.jpg" group-title="ESPAÑA",Neox FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178064
+#EXTINF:-1 tvg-id="Ten" tvg-name="TEN" tvg-logo="http://discusfish.xyz:25461/images/b1b9a972ccd8c962a473909b97007eb4.jpg" group-title="ESPAÑA",TEN
+http://kristoteve.sportsontheweb.net/botijo/?c=178065
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGYTU4rmEOAxgzv6B1MbIRyWr_mFD41lEbu8Ocg5kOfHlvM0EL&s" group-title="ESPAÑA",TRECE
+http://kristoteve.sportsontheweb.net/botijo/?c=178066
+#EXTINF:-1 tvg-id="M+ Fest" tvg-name="M. Fest HD" tvg-logo="http://discusfish.xyz:25461/images/0d9cbbca118b4f650ced0683cb344a81.png" group-title="ESPAÑA",M. Fest HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178067
+#EXTINF:-1 tvg-id="M+ Fest" tvg-name="M. Fest FHD" tvg-logo="http://discusfish.xyz:25461/images/0d9cbbca118b4f650ced0683cb344a81.png" group-title="ESPAÑA",M. Fest FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178068
+#EXTINF:-1 tvg-name="+ + + + + + + C I N E + + + + + + + +" group-title="ESPAÑA",+ + + + + + + C I N E + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=178069
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="M. #0 SD" tvg-logo="http://discusfish.xyz:25461/images/74f0a7fda137c90fc9ec400fe663e2d8.png" group-title="ESPAÑA",M. #0 SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178070
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="M. #0 HD" tvg-logo="http://discusfish.xyz:25461/images/74f0a7fda137c90fc9ec400fe663e2d8.png" group-title="ESPAÑA",M. #0 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178071
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="M. #0 FHD" tvg-logo="http://discusfish.xyz:25461/images/74f0a7fda137c90fc9ec400fe663e2d8.png" group-title="ESPAÑA",M. #0 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178072
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M. Accion SD" tvg-logo="http://discusfish.xyz:25461/images/9b7c6a1043bd0c1615250b897b45ff81.png" group-title="ESPAÑA",M. Accion SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178073
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M. Accion HD" tvg-logo="http://discusfish.xyz:25461/images/9b7c6a1043bd0c1615250b897b45ff81.png" group-title="ESPAÑA",M. Accion HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178074
+#EXTINF:-1 tvg-id="M+ ACCION HD" tvg-name="M. Accion FHD" tvg-logo="http://discusfish.xyz:25461/images/9b7c6a1043bd0c1615250b897b45ff81.png" group-title="ESPAÑA",M. Accion FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178075
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M. Estrenos SD" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA",M. Estrenos SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178076
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M. Estrenos HD" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA",M. Estrenos HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178077
+#EXTINF:-1 tvg-id="M+ESTRENOS HD" tvg-name="M. Estrenos FHD" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA",M. Estrenos FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178078
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="Estrenos 2 SD" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA",Estrenos 2 SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178079
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="Estrenos 2 HD" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA",Estrenos 2 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178080
+#EXTINF:-1 tvg-id="M+ ESTRENOS 2 HD" tvg-name="Estrenos 2 FHD" tvg-logo="http://discusfish.xyz:25461/images/20eda87f0162fb3ace931884423561bb.png" group-title="ESPAÑA",Estrenos 2 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178081
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M. Comedia SD" tvg-logo="http://discusfish.xyz:25461/images/fa088fe42f466888eb83dabf9e837aac.png" group-title="ESPAÑA",M. Comedia SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178082
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M. Comedia HD" tvg-logo="http://discusfish.xyz:25461/images/fa088fe42f466888eb83dabf9e837aac.png" group-title="ESPAÑA",M. Comedia HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178083
+#EXTINF:-1 tvg-id="M+COMEDIA HD" tvg-name="M. Comedia FHD" tvg-logo="http://discusfish.xyz:25461/images/fa088fe42f466888eb83dabf9e837aac.png" group-title="ESPAÑA",M. Comedia FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178084
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="M. Dcine Espanyol SD" tvg-logo="http://discusfish.xyz:25461/images/d95e0b82d85984860dbbadd64df81adb.png" group-title="ESPAÑA",M. Dcine Espanyol SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178085
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="M. Dcine Espanyol HD" tvg-logo="http://discusfish.xyz:25461/images/d95e0b82d85984860dbbadd64df81adb.png" group-title="ESPAÑA",M. Dcine Espanyol HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178086
+#EXTINF:-1 tvg-id="M+Cine Español" tvg-name="M. Dcine Espanyol FHD" tvg-logo="http://discusfish.xyz:25461/images/d95e0b82d85984860dbbadd64df81adb.png" group-title="ESPAÑA",M. Dcine Espanyol FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178087
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M. Drama SD" tvg-logo="http://discusfish.xyz:25461/images/9781ccb297f50e85a9af8e31321fddd7.png" group-title="ESPAÑA",M. Drama SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178088
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M. Drama HD" tvg-logo="http://discusfish.xyz:25461/images/9781ccb297f50e85a9af8e31321fddd7.png" group-title="ESPAÑA",M. Drama HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178089
+#EXTINF:-1 tvg-id="M+ DRAMA HD" tvg-name="M. Drama FHD" tvg-logo="http://discusfish.xyz:25461/images/9781ccb297f50e85a9af8e31321fddd7.png" group-title="ESPAÑA",M. Drama FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178090
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="M. Clasicos SD" tvg-logo="http://discusfish.xyz:25461/images/MClasicos.png" group-title="ESPAÑA",M. Clasicos SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178091
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="M. Clasicos HD" tvg-logo="http://discusfish.xyz:25461/images/MClasicos.png" group-title="ESPAÑA",M. Clasicos HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178092
+#EXTINF:-1 tvg-id="M+ CLÁSICOS HD" tvg-name="M. Clasicos FHD" tvg-logo="http://discusfish.xyz:25461/images/MClasicos.png" group-title="ESPAÑA",M. Clasicos FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178093
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M. Series SD" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="ESPAÑA",M. Series SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178094
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M. Series HD" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="ESPAÑA",M. Series HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178095
+#EXTINF:-1 tvg-id="M+ SERIES HD" tvg-name="M. Series FHD" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="ESPAÑA",M. Series FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178096
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M. Series 2 SD" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="ESPAÑA",M. Series 2 SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178097
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M. Series 2 HD" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="ESPAÑA",M. Series 2 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178098
+#EXTINF:-1 tvg-id="M+ SERIES 2 HD" tvg-name="M. Series 2 FHD" tvg-logo="http://discusfish.xyz:25461/images/e533d9beece7d8fd2fb096e528a6a218.png" group-title="ESPAÑA",M. Series 2 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178099
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM" tvg-logo="http://discusfish.xyz:25461/images/MAmenabar.png" group-title="ESPAÑA",BOM
+http://kristoteve.sportsontheweb.net/botijo/?c=178100
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="A3Series HD" tvg-logo="http://discusfish.xyz:25461/images/630d812d5ea6d3c8d14f2b51805e41c0.jpg" group-title="ESPAÑA",A3Series HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178104
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="A3Series FHD" tvg-logo="http://discusfish.xyz:25461/images/630d812d5ea6d3c8d14f2b51805e41c0.jpg" group-title="ESPAÑA",A3Series FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178105
+#EXTINF:-1 tvg-id="fox.es" tvg-name="Fox SD" tvg-logo="http://discusfish.xyz:25461/images/2b95d1f09b8b66c5c43622a4d9ec9a04.png" group-title="ESPAÑA",Fox SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178106
+#EXTINF:-1 tvg-id="fox.es" tvg-name="Fox HD" tvg-logo="http://discusfish.xyz:25461/images/2b95d1f09b8b66c5c43622a4d9ec9a04.png" group-title="ESPAÑA",Fox HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178107
+#EXTINF:-1 tvg-id="fox.es" tvg-name="Fox FHD" tvg-logo="http://discusfish.xyz:25461/images/2b95d1f09b8b66c5c43622a4d9ec9a04.png" group-title="ESPAÑA",Fox FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178108
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN SD" tvg-logo="http://discusfish.xyz:25461/images/22b80be11495f4d907cf3d9c6d9ede0d.jpg" group-title="ESPAÑA",AXN SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178112
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="http://discusfish.xyz:25461/images/22b80be11495f4d907cf3d9c6d9ede0d.jpg" group-title="ESPAÑA",AXN HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178113
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN FHD" tvg-logo="http://discusfish.xyz:25461/images/22b80be11495f4d907cf3d9c6d9ede0d.jpg" group-title="ESPAÑA",AXN FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178114
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN White SD" tvg-logo="http://discusfish.xyz:25461/images/58afbb161e884d432eefb2b825e2326c.jpg" group-title="ESPAÑA",AXN White SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178115
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN White HD" tvg-logo="http://discusfish.xyz:25461/images/58afbb161e884d432eefb2b825e2326c.jpg" group-title="ESPAÑA",AXN White HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178116
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="AXN White FHD" tvg-logo="http://discusfish.xyz:25461/images/58afbb161e884d432eefb2b825e2326c.jpg" group-title="ESPAÑA",AXN White FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178117
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM SD" tvg-logo="http://discusfish.xyz:25461/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="ESPAÑA",TCM SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178118
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="http://discusfish.xyz:25461/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="ESPAÑA",TCM HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178119
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM FHD" tvg-logo="http://discusfish.xyz:25461/images/a005a08d7cc59163d7f4de2b7fdbc147.png" group-title="ESPAÑA",TCM FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178120
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SyFy SD" tvg-logo="http://discusfish.xyz:25461/images/8eecc9e8a33f4f27df3586e1c847bde4.jpg" group-title="ESPAÑA",SyFy SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178121
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SyFy HD" tvg-logo="http://discusfish.xyz:25461/images/8eecc9e8a33f4f27df3586e1c847bde4.jpg" group-title="ESPAÑA",SyFy HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178122
+#EXTINF:-1 tvg-id="SYFY FHD" tvg-name="SYFY FHD" tvg-logo="http://discusfish.xyz:25461/images/8eecc9e8a33f4f27df3586e1c847bde4.jpg" group-title="ESPAÑA",SYFY FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178123
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="Calle 13 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s" group-title="ESPAÑA",Calle 13 SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178124
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="Calle 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s" group-title="ESPAÑA",Calle 13 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178125
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="Calle 13 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dXt3nP36iLeN5De7VwkyAxEDj9aVRW43u4AGrlczjGBy5ZkN&s" group-title="ESPAÑA",Calle 13 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178126
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="Cosmo SD" tvg-logo="http://discusfish.xyz:25461/images/32a8bd4d676f4fef0920c7da8db2bad7.jpg" group-title="ESPAÑA",Cosmo SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178127
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="Cosmo HD" tvg-logo="http://discusfish.xyz:25461/images/32a8bd4d676f4fef0920c7da8db2bad7.jpg" group-title="ESPAÑA",Cosmo HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178128
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="Cosmo FHD" tvg-logo="http://discusfish.xyz:25461/images/32a8bd4d676f4fef0920c7da8db2bad7.jpg" group-title="ESPAÑA",Cosmo FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178129
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="Comedy Central SD" tvg-logo="http://discusfish.xyz:25461/images/1de023994aa38e685de878126d18d59a.png" group-title="ESPAÑA",Comedy Central SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178130
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="Comedy Central HD" tvg-logo="http://discusfish.xyz:25461/images/1de023994aa38e685de878126d18d59a.png" group-title="ESPAÑA",Comedy Central HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178131
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="Comedy Central FHD" tvg-logo="http://discusfish.xyz:25461/images/1de023994aa38e685de878126d18d59a.png" group-title="ESPAÑA",Comedy Central FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178132
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="Hollywood SD" tvg-logo="http://discusfish.xyz:25461/images/13a224ef920af18191b809f1a9d48c19.png" group-title="ESPAÑA",Hollywood SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178133
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood HD" tvg-logo="http://discusfish.xyz:25461/images/13a224ef920af18191b809f1a9d48c19.png" group-title="ESPAÑA",Hollywood HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178134
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="Hollywood FHD" tvg-logo="http://discusfish.xyz:25461/images/13a224ef920af18191b809f1a9d48c19.png" group-title="ESPAÑA",Hollywood FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178135
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="Paramount Channel SD" tvg-logo="http://discusfish.xyz:25461/images/db84fd722b09a6787fd09b7eb55ff6ab.jpg" group-title="ESPAÑA",Paramount Channel SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178136
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="Paramount Channel HD" tvg-logo="http://discusfish.xyz:25461/images/db84fd722b09a6787fd09b7eb55ff6ab.jpg" group-title="ESPAÑA",Paramount Channel HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178137
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="Paramount Channel FHD" tvg-logo="http://discusfish.xyz:25461/images/db84fd722b09a6787fd09b7eb55ff6ab.jpg" group-title="ESPAÑA",Paramount Channel FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178138
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF SD" tvg-logo="http://discusfish.xyz:25461/images/f0118e9bd2c4fb29c64ee03abce698b8.jpg" group-title="ESPAÑA",FDF SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178139
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF HD" tvg-logo="http://discusfish.xyz:25461/images/f0118e9bd2c4fb29c64ee03abce698b8.jpg" group-title="ESPAÑA",FDF HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178140
+#EXTINF:-1 tvg-id="FDF" tvg-name="FDF FHD" tvg-logo="http://discusfish.xyz:25461/images/f0118e9bd2c4fb29c64ee03abce698b8.jpg" group-title="ESPAÑA",FDF FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178141
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC SD" tvg-logo="http://discusfish.xyz:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="ESPAÑA",AMC SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178142
+#EXTINF:-1 tvg-id="amc.es" tvg-name="AMC HD" tvg-logo="http://discusfish.xyz:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="ESPAÑA",AMC HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178143
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="AMC FHD" tvg-logo="http://discusfish.xyz:25461/images/3654b34017508a963ccce2426e91e4cd.png" group-title="ESPAÑA",AMC FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178144
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT SD" tvg-logo="http://discusfish.xyz:25461/images/07f7facb00dd6c2c02bc09d5cfb4a55a.jpg" group-title="ESPAÑA",TNT SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178145
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT HD" tvg-logo="http://discusfish.xyz:25461/images/07f7facb00dd6c2c02bc09d5cfb4a55a.jpg" group-title="ESPAÑA",TNT HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178146
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="TNT FHD" tvg-logo="http://discusfish.xyz:25461/images/07f7facb00dd6c2c02bc09d5cfb4a55a.jpg" group-title="ESPAÑA",TNT FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178147
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="Sundance SD" tvg-logo="http://discusfish.xyz:25461/images/0e450d1e32291326bded0e1a8b9b4c20.jpg" group-title="ESPAÑA",Sundance SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178148
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="Sundance HD" tvg-logo="http://discusfish.xyz:25461/images/0e450d1e32291326bded0e1a8b9b4c20.jpg" group-title="ESPAÑA",Sundance HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178149
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="Sundance FHD" tvg-logo="http://discusfish.xyz:25461/images/0e450d1e32291326bded0e1a8b9b4c20.jpg" group-title="ESPAÑA",Sundance FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178150
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD" tvg-logo="http://discusfish.xyz:25461/images/f82e4e5d73df2174ab0107ff82b06254.jpg" group-title="ESPAÑA",SOMOS HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178151
+#EXTINF:-1 tvg-name="XTRM SD" tvg-logo="http://discusfish.xyz:25461/images/1616fe78b44acc265861b27634b65c96.png" group-title="ESPAÑA",XTRM SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178152
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD" tvg-logo="http://discusfish.xyz:25461/images/1616fe78b44acc265861b27634b65c96.png" group-title="ESPAÑA",XTRM HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178153
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM FHD" tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/12/xtrm-logo-1.png" group-title="ESPAÑA",XTRM FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178154
+#EXTINF:-1 tvg-name="+ + + + + INFANTIL + + + + +" group-title="ESPAÑA",+ + + + + INFANTIL + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=178160
+#EXTINF:-1 tvg-id="BOING" tvg-name="Boing sd" tvg-logo="http://discusfish.xyz:25461/images/e89ea06de1fd9c12dd457585ff27714f.jpg" group-title="ESPAÑA",Boing sd
+http://kristoteve.sportsontheweb.net/botijo/?c=178161
+#EXTINF:-1 tvg-id="BOING" tvg-name="Boing" tvg-logo="http://discusfish.xyz:25461/images/e89ea06de1fd9c12dd457585ff27714f.jpg" group-title="ESPAÑA",Boing
+http://kristoteve.sportsontheweb.net/botijo/?c=178162
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick JR HD" tvg-logo="http://discusfish.xyz:25461/images/1426fa71a90977660df08963cf554149.jpg" group-title="ESPAÑA",Nick JR HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178163
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="Nick JR" tvg-logo="http://discusfish.xyz:25461/images/1426fa71a90977660df08963cf554149.jpg" group-title="ESPAÑA",Nick JR
+http://kristoteve.sportsontheweb.net/botijo/?c=178164
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="Disney JR" tvg-logo="http://discusfish.xyz:25461/images/a1bcfb810cee704aa1a79058b194303d.jpg" group-title="ESPAÑA",Disney JR
+http://kristoteve.sportsontheweb.net/botijo/?c=178165
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="Disney JR" tvg-logo="http://discusfish.xyz:25461/images/a1bcfb810cee704aa1a79058b194303d.jpg" group-title="ESPAÑA",Disney JR
+http://kristoteve.sportsontheweb.net/botijo/?c=178166
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="Nickelodeon HD" tvg-logo="http://discusfish.xyz:25461/images/7b363f0c787e1ce13500be718e8efc01.jpg" group-title="ESPAÑA",Nickelodeon HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178167
+#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="Nickelodeon" tvg-logo="http://discusfish.xyz:25461/images/7b363f0c787e1ce13500be718e8efc01.jpg" group-title="ESPAÑA",Nickelodeon
+http://kristoteve.sportsontheweb.net/botijo/?c=178168
+#EXTINF:-1 tvg-id="disney.es" tvg-name="Disney Channel" tvg-logo="http://discusfish.xyz:25461/images/6bee7677af2813c27e06499b0ac63cce.jpg" group-title="ESPAÑA",Disney Channel
+http://kristoteve.sportsontheweb.net/botijo/?c=178169
+#EXTINF:-1 tvg-id="disney.es" tvg-name="Disney Channel fhd" tvg-logo="http://discusfish.xyz:25461/images/6bee7677af2813c27e06499b0ac63cce.jpg" group-title="ESPAÑA",Disney Channel fhd
+http://kristoteve.sportsontheweb.net/botijo/?c=178170
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="Clan" tvg-logo="http://discusfish.xyz:25461/images/8be89710fd9659ed6e74787449873cf1.png" group-title="ESPAÑA",Clan
+http://kristoteve.sportsontheweb.net/botijo/?c=178171
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="Clan" tvg-logo="http://discusfish.xyz:25461/images/8be89710fd9659ed6e74787449873cf1.png" group-title="ESPAÑA",Clan
+http://kristoteve.sportsontheweb.net/botijo/?c=178172
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby Tv" tvg-logo="http://discusfish.xyz:25461/images/1bea3480aaafb66eea848ab958eb1bea.jpg" group-title="ESPAÑA",Baby Tv
+http://kristoteve.sportsontheweb.net/botijo/?c=178173
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="Baby Tv" tvg-logo="http://discusfish.xyz:25461/images/1bea3480aaafb66eea848ab958eb1bea.jpg" group-title="ESPAÑA",Baby Tv
+http://kristoteve.sportsontheweb.net/botijo/?c=178174
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Canal Panda FHD" tvg-logo="http://discusfish.xyz:25461/images/ce61649168c4550c2f7acab92354dc6e.jpg" group-title="ESPAÑA",Canal Panda FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178175
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="Canal Panda" tvg-logo="http://discusfish.xyz:25461/images/ce61649168c4550c2f7acab92354dc6e.jpg" group-title="ESPAÑA",Canal Panda
+http://kristoteve.sportsontheweb.net/botijo/?c=178176
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DreamWorks HD" tvg-logo="http://discusfish.xyz:25461/images/c899883c220e94ce807676d229119a63.jpg" group-title="ESPAÑA",DreamWorks HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178177
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DreamWorks FHD" tvg-logo="http://discusfish.xyz:25461/images/c899883c220e94ce807676d229119a63.jpg" group-title="ESPAÑA",DreamWorks FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178178
+#EXTINF:-1 tvg-name="Disney XD (latino)" tvg-logo="http://discusfish.xyz:25461/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="ESPAÑA",Disney XD (latino)
+http://kristoteve.sportsontheweb.net/botijo/?c=178179
+#EXTINF:-1 tvg-name="Cartoon Network (latino)" tvg-logo="http://cdn2.scratch.mit.edu/get_image/project/20988824_144x108.png?v=1398081506.44" group-title="ESPAÑA",Cartoon Network (latino)
+http://kristoteve.sportsontheweb.net/botijo/?c=178180
+#EXTINF:-1 tvg-name="+ + + + + DOCUMENTALES + + + + + +" group-title="ESPAÑA",+ + + + + DOCUMENTALES + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=178181
+#EXTINF:-1 tvg-id="NAT GEO" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://discusfish.xyz:25461/images/18234861052ece494b63430305fe66ac.png" group-title="ESPAÑA",NATIONAL GEOGRAPHIC
+http://kristoteve.sportsontheweb.net/botijo/?c=178182
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NatGeo HD" tvg-logo="http://discusfish.xyz:25461/images/18234861052ece494b63430305fe66ac.png" group-title="ESPAÑA",NatGeo HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178183
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="NatGeo FHD" tvg-logo="http://discusfish.xyz:25461/images/18234861052ece494b63430305fe66ac.png" group-title="ESPAÑA",NatGeo FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178184
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NatGeo Wild HD" group-title="ESPAÑA",NatGeo Wild HD
+http://kristoteve.sportsontheweb.net/botijo/?c=193870
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NatGeo  Wild FHD" tvg-logo="http://discusfish.xyz:25461/images/0e8b78b2b510ab122ef0d58dd614a886.png" group-title="ESPAÑA",NatGeo  Wild FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178185
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="Odisea SD" tvg-logo="http://discusfish.xyz:25461/images/09928d3a049344f774432b6815462c8c.jpg" group-title="ESPAÑA",Odisea SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178186
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="Odisea HD" tvg-logo="http://discusfish.xyz:25461/images/09928d3a049344f774432b6815462c8c.jpg" group-title="ESPAÑA",Odisea HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178187
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="Odisea FHD" tvg-logo="http://discusfish.xyz:25461/images/09928d3a049344f774432b6815462c8c.jpg" group-title="ESPAÑA",Odisea FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178188
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA 4K" group-title="ESPAÑA",CANAL ODISEA 4K
+http://kristoteve.sportsontheweb.net/botijo/?c=181914
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="Movistar La Resistencia SD" group-title="ESPAÑA",Movistar La Resistencia SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178189
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MTMAD 24H FHD" group-title="ESPAÑA",MTMAD 24H FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178190
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="Movistar La Resistencia HD" group-title="ESPAÑA",Movistar La Resistencia HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178191
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="TD- Crimen + Investigacion SD" tvg-logo="http://discusfish.xyz:25461/images/909b8a5132faf105826316f1b6c7258d.jpg" group-title="ESPAÑA",TD- Crimen + Investigacion SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178192
+#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="Crimen + Investigacion HD" tvg-logo="http://www.movistar.es/estaticos/imagenes/tv-ocio/imagenes/logos-tv/140x114/crimen-investigacion.jpg" group-title="ESPAÑA",Crimen + Investigacion HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178193
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="Crimen + Investigacion FHD" tvg-logo="http://discusfish.xyz:25461/images/909b8a5132faf105826316f1b6c7258d.jpg" group-title="ESPAÑA",Crimen + Investigacion FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178194
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia SD" tvg-logo="http://discusfish.xyz:25461/images/7967791d08c33bfa3caa5e521b7957bb.jpg" group-title="ESPAÑA",Historia SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178195
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia HD" tvg-logo="http://discusfish.xyz:25461/images/7967791d08c33bfa3caa5e521b7957bb.jpg" group-title="ESPAÑA",Historia HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178196
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="Historia FHD" tvg-logo="http://discusfish.xyz:25461/images/7967791d08c33bfa3caa5e521b7957bb.jpg" group-title="ESPAÑA",Historia FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178197
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="TD- Discovery SD" tvg-logo="http://discusfish.xyz:25461/images/bd64fc7095a970a1496ea59c11f5c7fd.jpg" group-title="ESPAÑA",TD- Discovery SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178198
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="Discovery HD" tvg-logo="http://discusfish.xyz:25461/images/bd64fc7095a970a1496ea59c11f5c7fd.jpg" group-title="ESPAÑA",Discovery HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178199
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="Discovery FHD" tvg-logo="http://discusfish.xyz:25461/images/bd64fc7095a970a1496ea59c11f5c7fd.jpg" group-title="ESPAÑA",Discovery FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178200
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="Energy SD" tvg-logo="http://discusfish.xyz:25461/images/05e7d19a6d002118deef70d21ff4226e.jpg" group-title="ESPAÑA",Energy SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178201
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="Energy HD" tvg-logo="http://discusfish.xyz:25461/images/05e7d19a6d002118deef70d21ff4226e.jpg" group-title="ESPAÑA",Energy HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178202
+#EXTINF:-1 tvg-id="ENERGY" tvg-name="Energy FHD" tvg-logo="http://discusfish.xyz:25461/images/05e7d19a6d002118deef70d21ff4226e.jpg" group-title="ESPAÑA",Energy FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178203
+#EXTINF:-1 tvg-id="mega.es" tvg-name="Mega SD" tvg-logo="http://discusfish.xyz:25461/images/91805ec00ad20b85226bec0bacf843d3.jpg" group-title="ESPAÑA",Mega SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178204
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="Mega HD" tvg-logo="http://discusfish.xyz:25461/images/91805ec00ad20b85226bec0bacf843d3.jpg" group-title="ESPAÑA",Mega HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178205
+#EXTINF:-1 tvg-id="mega.es" tvg-name="Mega FHD" tvg-logo="http://discusfish.xyz:25461/images/91805ec00ad20b85226bec0bacf843d3.jpg" group-title="ESPAÑA",Mega FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178206
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Blaze SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dzLj8IqUVB8uX-cS7IlZLZsNcMv_TiJF4fXTXJv7nVuQo4aq&s" group-title="ESPAÑA",Blaze SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178207
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Blaze HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dzLj8IqUVB8uX-cS7IlZLZsNcMv_TiJF4fXTXJv7nVuQo4aq&s" group-title="ESPAÑA",Blaze HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178208
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="Blaze FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5dzLj8IqUVB8uX-cS7IlZLZsNcMv_TiJF4fXTXJv7nVuQo4aq&s" group-title="ESPAÑA",Blaze FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178209
+#EXTINF:-1 tvg-id="discoverymax.es" tvg-name="GD- Dmax SD" tvg-logo="http://discusfish.xyz:25461/images/b86d6c715b67b3d0f00db4d2840fc76f.png" group-title="ESPAÑA",GD- Dmax SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178210
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="DMAX HD" tvg-logo="http://discusfish.xyz:25461/images/b86d6c715b67b3d0f00db4d2840fc76f.png" group-title="ESPAÑA",DMAX HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178211
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="DMAX FHD" tvg-logo="http://discusfish.xyz:25461/images/b86d6c715b67b3d0f00db4d2840fc76f.png" group-title="ESPAÑA",DMAX FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178212
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="Caza y Pesca SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wSSYBMOttisaraK0lCNRhLwFyKkdG7690RvJANlvjZhebiYm&s" group-title="ESPAÑA",Caza y Pesca SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178213
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="Caza y Pesca HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wSSYBMOttisaraK0lCNRhLwFyKkdG7690RvJANlvjZhebiYm&s" group-title="ESPAÑA",Caza y Pesca HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178214
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="Caza y Pesca FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6wSSYBMOttisaraK0lCNRhLwFyKkdG7690RvJANlvjZhebiYm&s" group-title="ESPAÑA",Caza y Pesca FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178215
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="Iberalia SD" tvg-logo="http://discusfish.xyz:25461/images/20866814c2af27e301ef4e177bae0fa3.jpg" group-title="ESPAÑA",Iberalia SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178216
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="Iberalia HD" tvg-logo="http://discusfish.xyz:25461/images/20866814c2af27e301ef4e177bae0fa3.jpg" group-title="ESPAÑA",Iberalia HD
+http://kristoteve.sportsontheweb.net/botijo/?c=178217
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="Iberalia FHD" tvg-logo="http://discusfish.xyz:25461/images/20866814c2af27e301ef4e177bae0fa3.jpg" group-title="ESPAÑA",Iberalia FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178218
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="Cazavision TV" tvg-logo="http://discusfish.xyz:25461/images/976d5b9cf6b6f916f2f10cbe4973aef5.jpg" group-title="ESPAÑA",Cazavision TV
+http://kristoteve.sportsontheweb.net/botijo/?c=178219
+#EXTINF:-1 tvg-id="Dark" tvg-name="DARK FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq63lsIgqPOalLcDXrEbSlizaPko4OL7m4xBKTSjZx8sI8R7pn&s" group-title="ESPAÑA",DARK FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=178220
+#EXTINF:-1 tvg-id="Dark" tvg-name="DARK SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq63lsIgqPOalLcDXrEbSlizaPko4OL7m4xBKTSjZx8sI8R7pn&s" group-title="ESPAÑA",DARK SD
+http://kristoteve.sportsontheweb.net/botijo/?c=178221
+#EXTINF:-1 tvg-name="ES: U-BEAT HD" group-title="ESPAÑA",ES: U-BEAT HD
+http://kristoteve.sportsontheweb.net/botijo/?c=181897
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="MOVISTAR LA RESISTENCIA" group-title="ESPAÑA",MOVISTAR LA RESISTENCIA
+http://kristoteve.sportsontheweb.net/botijo/?c=181899
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="MTV ESPAÑA" group-title="ESPAÑA",MTV ESPAÑA
+http://kristoteve.sportsontheweb.net/botijo/?c=181915
+#EXTINF:-1 tvg-id="BOM" tvg-name="World Poker Tour" group-title="ESPAÑA",World Poker Tour
+http://kristoteve.sportsontheweb.net/botijo/?c=200250
+#EXTINF:-1 tvg-name="IBERALIA 100% CAZA HD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ESPAÑA",IBERALIA 100% CAZA HD
+http://kristoteve.sportsontheweb.net/botijo/?c=205257
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA 100% CAZA SD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ESPAÑA",IBERALIA 100% CAZA SD
+http://kristoteve.sportsontheweb.net/botijo/?c=205258
+#EXTINF:-1 tvg-name="IBERALIA 100% PESCA SD" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ESPAÑA",IBERALIA 100% PESCA SD
+http://kristoteve.sportsontheweb.net/botijo/?c=205261
+#EXTINF:-1 tvg-name="ES: Star TVE" tvg-logo="http://titanicos.net:8080/images/481dd172f2967d63bb42ae051dc95f73.png" group-title="ESPAÑA",ES: Star TVE
+http://kristoteve.sportsontheweb.net/botijo/?c=209420
+#EXTINF:-1 tvg-name="ES: Hispan TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hispan_Tv_logo.svg/2560px-Hispan_Tv_logo.svg.png" group-title="ESPAÑA",ES: Hispan TV
+http://kristoteve.sportsontheweb.net/botijo/?c=209421
+#EXTINF:-1 tvg-name="ES: CGTN En Español" tvg-logo="http://titanicos.net:8080/images/dfb20899a540fd758d794caf73577ee7.png" group-title="ESPAÑA",ES: CGTN En Español
+http://kristoteve.sportsontheweb.net/botijo/?c=209422
+#EXTINF:-1 tvg-name="ES: MyTime Movie Network SD" tvg-logo="http://titanicos.net:8080/images/973616d03b2f66a54838b14728349fee.png" group-title="ESPAÑA",ES: MyTime Movie Network SD
+http://kristoteve.sportsontheweb.net/botijo/?c=209423
+#EXTINF:-1 tvg-name="ES: ENFAMILIA" tvg-logo="http://titanicos.net:8080/images/973616d03b2f66a54838b14728349fee.png" group-title="ESPAÑA",ES: ENFAMILIA
+http://kristoteve.sportsontheweb.net/botijo/?c=209424
+#EXTINF:-1 tvg-name="ES: MyTime Movie Network FHD" tvg-logo="http://titanicos.net:8080/images/973616d03b2f66a54838b14728349fee.png" group-title="ESPAÑA",ES: MyTime Movie Network FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=209425
+#EXTINF:-1 tvg-id="Sol Música" tvg-name="SOL MUSICA" group-title="ESPAÑA",SOL MUSICA
+http://kristoteve.sportsontheweb.net/botijo/?c=210059
+#EXTINF:-1 tvg-id="MTV ESPAÑA" tvg-name="ES: MTV 00S" group-title="ESPAÑA",ES: MTV 00S
+http://kristoteve.sportsontheweb.net/botijo/?c=210563
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC Break HD" group-title="ESPAÑA",AMC Break HD
+http://kristoteve.sportsontheweb.net/botijo/?c=219259
+#EXTINF:-1 tvg-id="AMC BREAK" tvg-name="AMC Break FHD" group-title="ESPAÑA",AMC Break FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=219260
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC Crime SD" group-title="ESPAÑA",AMC Crime SD
+http://kristoteve.sportsontheweb.net/botijo/?c=219261
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC Crime HD" group-title="ESPAÑA",AMC Crime HD
+http://kristoteve.sportsontheweb.net/botijo/?c=219262
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC Crime FHD" group-title="ESPAÑA",AMC Crime FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=219263
+#EXTINF:-1 tvg-name="MTV Espana" group-title="ESPAÑA",MTV Espana
+http://kristoteve.sportsontheweb.net/botijo/?c=219646
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: ENFAMILIA" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PANDA" group-title="ESPAÑA",ES: ENFAMILIA
+http://kristoteve.sportsontheweb.net/botijo/?c=372094
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: ENFAMILIA" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PANDA" group-title="ESPAÑA",ES: ENFAMILIA
+http://kristoteve.sportsontheweb.net/botijo/?c=372095
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="ES: CANAL COCINA UHD 4K" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="ESPAÑA",ES: CANAL COCINA UHD 4K
+http://kristoteve.sportsontheweb.net/botijo/?c=372096
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA UHD 4K" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="ESPAÑA",ES: ODISEA UHD 4K
+http://kristoteve.sportsontheweb.net/botijo/?c=372097
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="ES: CANAL COCINA UHD 4K" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="ESPAÑA",ES: CANAL COCINA UHD 4K
+http://kristoteve.sportsontheweb.net/botijo/?c=372098
+#EXTINF:-1 tvg-id="CANAL DECASA" tvg-name="ES: DECASA UHD 4K" tvg-logo="https://www.orange.es/ss/Satellite?blobcol=urldata&blobheadername1=Cache-Control&blobheadervalue1=max-age%3D3600&blobkey=id&blobnocache=false&blobtable=MungoBlobs&blobwhere=1521463181298&ssbinary=true" group-title="ESPAÑA",ES: DECASA UHD 4K
+http://kristoteve.sportsontheweb.net/botijo/?c=372099
+#EXTINF:-1 tvg-id="BOM" tvg-name="ES: BOM CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1200px-Logo-bom.svg.png" group-title="ESPAÑA",ES: BOM CINE
+http://kristoteve.sportsontheweb.net/botijo/?c=372100
+#EXTINF:-1 tvg-name="ES: SELEKT FHD" tvg-logo="https://s1.eestatic.com/2021/01/28/series/reportajes/554705600_171489690_1024x576.jpg" group-title="ESPAÑA",ES: SELEKT FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=372101
+#EXTINF:-1 tvg-name="ES: SELEKT HD" tvg-logo="https://s1.eestatic.com/2021/01/28/series/reportajes/554705600_171489690_1024x576.jpg" group-title="ESPAÑA",ES: SELEKT HD
+http://kristoteve.sportsontheweb.net/botijo/?c=372102
+#EXTINF:-1 tvg-name="ES: SELEKT SD" tvg-logo="https://s1.eestatic.com/2021/01/28/series/reportajes/554705600_171489690_1024x576.jpg" group-title="ESPAÑA",ES: SELEKT SD
+http://kristoteve.sportsontheweb.net/botijo/?c=372103
+#EXTINF:-1 tvg-id="Horse TV" tvg-name="HORSE TV HD" tvg-logo="https://www.movistarplus.es/recorte/n/fichaPeque/M1270415H1896210" group-title="ESPAÑA",HORSE TV HD
+http://kristoteve.sportsontheweb.net/botijo/?c=372104
+#EXTINF:-1 tvg-name="NEGOCIOS TV" tvg-logo="https://s2.coinmarketcap.com/static/img/coins/200x200/1.png" group-title="ESPAÑA",NEGOCIOS TV
+http://kristoteve.sportsontheweb.net/botijo/?c=372158
+#EXTINF:-1 tvg-name="Music | 90's" group-title="MUSICA",Music | 90's
+http://kristoteve.sportsontheweb.net/botijo/?c=191040
+#EXTINF:-1 tvg-name="Music | Alternative" group-title="MUSICA",Music | Alternative
+http://kristoteve.sportsontheweb.net/botijo/?c=191041
+#EXTINF:-1 tvg-name="Music | Dance EDM" group-title="MUSICA",Music | Dance EDM
+http://kristoteve.sportsontheweb.net/botijo/?c=191042
+#EXTINF:-1 tvg-name="Music | Hip-Hop and R&B" group-title="MUSICA",Music | Hip-Hop and R&B
+http://kristoteve.sportsontheweb.net/botijo/?c=191043
+#EXTINF:-1 tvg-name="Music | Hit List" group-title="MUSICA",Music | Hit List
+http://kristoteve.sportsontheweb.net/botijo/?c=191044
+#EXTINF:-1 tvg-name="Music | Kidz Bop" group-title="MUSICA",Music | Kidz Bop
+http://kristoteve.sportsontheweb.net/botijo/?c=191045
+#EXTINF:-1 tvg-name="Music | Kidz Only!" group-title="MUSICA",Music | Kidz Only!
+http://kristoteve.sportsontheweb.net/botijo/?c=191046
+#EXTINF:-1 tvg-name="Music | Mexicana" group-title="MUSICA",Music | Mexicana
+http://kristoteve.sportsontheweb.net/botijo/?c=191047
+#EXTINF:-1 tvg-name="Music | Music Choice Max" group-title="MUSICA",Music | Music Choice Max
+http://kristoteve.sportsontheweb.net/botijo/?c=191048
+#EXTINF:-1 tvg-name="Music | Musica Urbana" group-title="MUSICA",Music | Musica Urbana
+http://kristoteve.sportsontheweb.net/botijo/?c=191049
+#EXTINF:-1 tvg-name="Music | Pop & Country" group-title="MUSICA",Music | Pop & Country
+http://kristoteve.sportsontheweb.net/botijo/?c=191050
+#EXTINF:-1 tvg-name="Music | Pop Hits" group-title="MUSICA",Music | Pop Hits
+http://kristoteve.sportsontheweb.net/botijo/?c=191051
+#EXTINF:-1 tvg-name="Music | Pop Latino" group-title="MUSICA",Music | Pop Latino
+http://kristoteve.sportsontheweb.net/botijo/?c=191052
+#EXTINF:-1 tvg-name="Music | R&B Soul" group-title="MUSICA",Music | R&B Soul
+http://kristoteve.sportsontheweb.net/botijo/?c=191053
+#EXTINF:-1 tvg-name="Music | Rap" group-title="MUSICA",Music | Rap
+http://kristoteve.sportsontheweb.net/botijo/?c=191054
+#EXTINF:-1 tvg-name="Music | Rap 2K" group-title="MUSICA",Music | Rap 2K
+http://kristoteve.sportsontheweb.net/botijo/?c=191055
+#EXTINF:-1 tvg-name="Music | Rock" group-title="MUSICA",Music | Rock
+http://kristoteve.sportsontheweb.net/botijo/?c=191056
+#EXTINF:-1 tvg-name="Music | Teen Beats" group-title="MUSICA",Music | Teen Beats
+http://kristoteve.sportsontheweb.net/botijo/?c=191057
+#EXTINF:-1 tvg-name="Music | Throwback Jamz" group-title="MUSICA",Music | Throwback Jamz
+http://kristoteve.sportsontheweb.net/botijo/?c=191058
+#EXTINF:-1 tvg-name="Music | Today's Country: CMA Awards" group-title="MUSICA",Music | Today's Country: CMA Awards
+http://kristoteve.sportsontheweb.net/botijo/?c=191059
+#EXTINF:-1 tvg-name="Music | Toddler Tunes" group-title="MUSICA",Music | Toddler Tunes
+http://kristoteve.sportsontheweb.net/botijo/?c=191060
+#EXTINF:-1 tvg-name="Music | Tropicales" group-title="MUSICA",Music | Tropicales
+http://kristoteve.sportsontheweb.net/botijo/?c=191061
+#EXTINF:-1 tvg-name="Music | Y2K" group-title="MUSICA",Music | Y2K
+http://kristoteve.sportsontheweb.net/botijo/?c=191062
+#EXTINF:-1 tvg-name="RAKUTEN CINE ESPAÑOL" tvg-logo="https://play-lh.googleusercontent.com/83p_CXCRvPSQRcZQvFrPJYvDralOoYJiK-hP4zuK8ChjD0-F1e5Sc3kyVe-DjOMiHGs=s180-rw" group-title="RAKUTEN TV ESPAÑA",RAKUTEN CINE ESPAÑOL
+http://kristoteve.sportsontheweb.net/botijo/?c=205533
+#EXTINF:-1 tvg-name="MY TIME MOVIE NETWORK" tvg-logo="http://mytimemovienetwork.com/wp-content/uploads/elementor/thumbs/logo-white-ovbvbhqmwrle299mxlmn5nja1wu1e37m0m19zkrgws.png" group-title="RAKUTEN TV ESPAÑA",MY TIME MOVIE NETWORK
+http://kristoteve.sportsontheweb.net/botijo/?c=205534
+#EXTINF:-1 tvg-name="TASTEMADE" tvg-logo="https://surveymonkey-assets.s3.amazonaws.com/survey/304651954/eccff35d-0262-4178-b87f-ea82ba8c1835.jpg" group-title="RAKUTEN TV ESPAÑA",TASTEMADE
+http://kristoteve.sportsontheweb.net/botijo/?c=205535
+#EXTINF:-1 tvg-name="HOLA PLAY" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAA3lBMVEUpKTHuAADzAAApKTD1AAD////tAAAcKjLsAQO0ERWNGR8hKjIoKTIqKTIVKTERKzOSFx2/DA+jExhaIyklKTG8DxFsHiWKHCKFHSQ6JS0AKzMZKjE0JSweHiitERZ8e4AAAADeAAAICBfaCAp0HiReXWNIJCyeFhzV1dZLIypmICclKi8wJy8SKzHSCQxCJC3t7e1wcHS7u71VJCvKCQldHyfdCAd8HSOuEhMlKzCVGiFwHyOnFhYYKTWYGRshKDQVFSFOTVM6O0GOjpGfn6PFxMbi4eOxsLNWVVzY2NlMH9tMAAAMm0lEQVR4nO2bi1/bOBLHbUm1HCRbeSgBbJprCJeUPLslJNASwnZv2+v//w/dyK/Y4AR6twdmme+nj9hWjPRjNBqNJMtCEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEAT5eyB1zEvXo8JIKiXoxBWfDC6AwYlQoYAH9KVrVjkopR4V66B12+73XJsQ2+ktG8ORP+VSey9du2ohqSdDMbpyGQOdbNuJ/zJmt8+8NXbIApLy6dGMERCIEJZgZHMI69Un/kvXr0Joqf3VktlGKXfRXI3OB4PB5dmw4RK4AX/qnHuUypeuZxWQdH2+MFKxXnekA58LLbQWIlSqNVwysC/WHynwaS9d0SowDg5d5thseUR9IY0JgTDg8COLE50FM9Y1VGMUy6JadJntsN4q4FKCRhKCBWp5yf9SBKMZmB2becI8e9voCTh2wm68cEdEJUVYJ8Qhy7mQb924wttat9v9qsDGZJnhGGNTF33wXL0Br2LEZeyfwnwj/kWmTQAPm/UDaWX1ll5cBFqVfl3G3/HyA1hBCCMLTcoK5a/BV1myPFin5j0bASMAcSeaWpXTS1ra5+dzxWVU1UgF6o2lzJozzsYm8MeeZdyxtX1qxd/QdNt6KJFrJs0JK82VfiRM12GbOWwmdPV6It3QGwifewcmGqR+AtfgP5LP66xHgEuZ+kpNQ65lck+GcEMpf7rm23d6NFRbfCVibeV4LITYbLTYXyUZNECtmj+unGVZUxiAHBjNb8CViJtuxNXN8fWmU4svap24cVqJTr1ba7drzaOBSrTh9UY7orHKJKBemN6NH42Eaba+6PUjlrVHwnStZ8Rmq/D/1eT/Gn9oYkQTJo4E9SGujnCPNT9k8WdWj4QR3tBJ7hBGZisVTeP8WrGUQVI1S0tGj27DMXgp0Up+EmmoRyol5i5Mf04qN1Hky7gFYPfK8t34wo7FSlQ8MDKEly6LJr3xc8IaE+PT/RqJv062Yll00rNzkJoylgViOc7TxLLWZ+DkHzPAZ0cPYn2gGbO13C2WuHAJPEyeO/CBzATdIZZu2QVmvnHyvyIWBbdls4tHnNtzo+duIgCZrelusXifOFvDgk+Ow7pTy5uWiSVWrCBWb2I61K+IZelj1zHlqjVL9I0KUWu7/k6xND8rNj+Wd3AtyyyL+k1SKOgcm8jrlyxLqhswrbmollg8tgIHmq53W5ZqFJtvvuGSIaflYt0rbcaOX7Qsa3wCBbvTaoklVc1kRgg5CmHiv0MsKdxtyzMhoNGlYlmiV9SVHZpnJWJRyoVlMg/3awXRbwBv7m3GzyTD04DZ2GpmO43LEOq8U6yTzF0tV4euk1zNhKVKxJITsvVukTrQw0vEop70hh0lrNIMgxhBZNqpWKx1rYIIU+nHxWIdFdRZctWnpaNhFlBlYi1UaTfU4ZCxxvmO9BVYM7mpVvQgRksIqmfwtx7uDB30VqzLDc/GuiWEnyVi8aP7o0Ev8ErEknQNIwGxu+G6pGIybBMy4yVPXg7RSTVpZqOhC2JdhwXLytzPpdhq0YdBq0Qsv8uSJZvsW74ss6xk2GTuIYfp4/0kg4Cf40wqFcWDa0j6SjMfOswn3kGZWORSF8Qq64ZqFj920hDOYQOxRyyYDswup9rTxd4oWjBBvKi8WI5TMIuiWJtHxeJu/HVyNUtfcbZHLJgOwDy+fXIvyyDHx278xepQbln50awoVitvWfqhWNTS58nKKTlsJ2EG+8JLQ4dwSNIfR5zh2CxhZBXzxqJH4nlpZSgXK889sXI+a6lLQgcpzlj8GtYZsnR2oMrEkqlYcfHl16DQ6VTfJreVGg7/crEsfktiy2STVZKogNihLM4qiGWW8GfHW7WoF8xsMqxUoPW/iNUvE4uqdhKTusEFifIUjt0bl4rl5y0LirLcRAhGWiNWtSyrk4SY+8SivyCWJfrJ40UgUt/nzHVZN+Q5sVwz5zrLuyhVPcv6i8Wi+jjN+TT9oG8nTutSlIjl5cVyCGuf56TxJF8SVn/dYun9YnnZZIetRJbtYke8zLLy3ZD1R/51PnjQJ655x/NLspssgs+L5TpmXWErlj7eJdbDOCt7TAZcHSWxvPE9uhW5e+d+N3Qcs17iHk2LulATgsCE4Zn12EuZWBCTHqtph5WIZd/rhg/EkqqbWIu7Wq0O0kCr5lOwrGgZg7EHPouQm0l4P09jEo5sUqktD6WWZbsDLc7KxXqkG1pqkXUsECcNb2FGrAfdZkwaaSaWBaY2V5rS4mzHW98we7l5Zjn2U25ZO8UiFybrkKZoNmnWARpc5xICcEmDzO/lZ9M9rS3th2vfh39Sp23iLPDry47SZpNAUawxh5i07VcqU7pTLH6Wn0hnKZqDIEj7md0X2XTHhQdmJZvKk5JsPbz9xOxw0KEfhtvle8rrjLgHQpQpogcsGheqxJPE8nSqj0Mai/QzWUy9tBtCVzIdbEg3I5afWGZdsgWeOpwPG43hPEz8kLbGJwtwVvphWtkyq78Q0R5Xawn/Sd3QUstt5p3YSVoZZnxpDh6GhMh393QSDThJD0yFI4ec8pFrtmc5X1NzoVJOQ71j+7vqPW1l4zl5kljSb5Z0LtbZZA4+oadVO0sk5MViTa4HqXCPL55KKzyAXjgS9HX4LFHohhclYvX8sXwglt9Ph8d403YqUEOpq2SFkrUfXzekemmy0RXbivsksShdLwqiRG2u+162FJaKJU7itR/Hnp1BnHV0lk4U+0HQiw3NhRn2o9VStxBkrXjFtmg9zWdZ4jyfEYz06PPcxpBULN5KHX4z4JyL4Cq5dniQJFBBZiX3HtPxLHHMbDKr1LzQ8ESxLL+wf8GUa+U3hqRiQbEk8xeP+vxL+rV5MEu6od3b3w3htSEYMqnWVMfwVLE8dWRnukAM6l5GfeS+WKpJErHOozzeNl02Ul/iVKDDHsm7UJgygXfvqkqFDQYQK9ly1gytbDObA2KtitvUqH+xiI8m2YSR2pxHS1fZZraYnlok13a0zEz1SfoWiB1mzKyEkOXe9S2zYxlGQrLcVGskNIjLRSPmYHMt2snnxnysO+nndIVF++dfGsteb9k+PPGTwJLfNvK05U3tytBtbqKNuXIaX1/VVkJ7DTNELvZqJT2pDo11nnOvcpZFN9Nko+yaeuNoN62aKpNZEukOWp5tN96EKvCnwZrrzEFzNc1ttuXabL2Fec90HW25heYm23jVhnp6enF02JruG+IgZgjq5gjPiEuvWrtCLLOGbsmY6GRIdGH2P1IvuW9lJ0MkjY7ZRJvfM8w+7wxqpTOXRBBKk93ilqbmAOuGT7WMd4jvqIzwr8zhnhWEJW/9YKsn1ms/9HX5GTkPXPt5H7QiK6XfuFJgOceL/mzWr01UqdvSnA9N7G+Ppq/uoFPSDe/deVBK5Lpl8rykWIym5qwJsYfHvrBk0YELf3LgRofCzMGdisXu+wFn48HI5N2d5m7KBwOUhOF07aV2Ao+993DzvbfDKVljdeBAbMqcWidUXMjk/Ivgat1q9pgJS25C8cpOskr6/h/vIj5vOwSFy3++L5abDtmtn0r4uyl/ap3++e7dp29lDYaC4XHbHJAmxG0fXIAP42HI9flRbWlHJ1xnLfUgaVp1tmK9+5RK4ZWIFSWc5+m85O4PKPHbafRvsVz6ijEMiUGrYZJiYESMuEvwYT0SZ+sJWZwFwnp9w2Ak1vd/fYZ2/5G0OxZLby0GAoOgQdztUQh5+hHENfb147Q0ooz9tlAXNy67l/QhzG6PoiNBr6sPGiKx/vzwAXrU57v4lozEyvkTzwpH5pQUG6WmJa3YGr9/2NtiCOz9VnPmRgtAJqq33f4NODFRmmCuPqlYH/eIRc2+BrNHoZ8lqJLO+/v7R8TyrOswmFx8PaoPh7eHZ62TqW8mm9WbDj6JSKxPPz7mumEsVj5C8s2+U7NX6DCMggUI90+jjnu3v9VmEPQk1VoY9w5/RLzi88pGwYytg//+Ppvu3HPwmmb5rUkaF8lvUOjDs1f3ZYnF+vTp+4/s1/1ALHWVOmnWzPJ5xr2fWm+LxGednt5lKeBIrH/f3cVyUbOdOM00u2yedk9jWXcvUuWXIxLrY8FEPM/Y2vfvn+ITz5a/iHbARLtg7Gyzx7e3allFsSLLMkTOnIqvhbO9SfhA32Y3/O3nzx93+VuS/vxo+Bk7c31eyJGme2e/QaG7+2/72/Me/FXxjjyNiT0+1bkUqfKzkAIKPGMtEQRBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEAR5DfwHe9sPf1sCkBYAAAAASUVORK5CYII=" group-title="RAKUTEN TV ESPAÑA",HOLA PLAY
+http://kristoteve.sportsontheweb.net/botijo/?c=205536
+#EXTINF:-1 tvg-id="Gol Mundial HD" tvg-name="DEPORTES-EVENTOS" tvg-logo="https://i.ytimg.com/vi/N18moHhpP9E/maxresdefault.jpg" group-title="ESPAÑA DEPORTES",DEPORTES-EVENTOS
+http://kristoteve.sportsontheweb.net/botijo/?c=151637
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="M. FORMULA 1" tvg-logo="https://lp-research.com/wp-content/uploads/2013/08/F1Logo1.png" group-title="ESPAÑA DEPORTES",M. FORMULA 1
+http://kristoteve.sportsontheweb.net/botijo/?c=151694
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="MOVISTAR F1 HD" tvg-logo="https://lp-research.com/wp-content/uploads/2013/08/F1Logo1.png" group-title="ESPAÑA DEPORTES",MOVISTAR F1 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151695
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="M. FORMULA 1 FHD" tvg-logo="https://lp-research.com/wp-content/uploads/2013/08/F1Logo1.png" group-title="ESPAÑA DEPORTES",M. FORMULA 1 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151696
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="MOVISTAR LA LIGA  SD" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA  SD
+http://kristoteve.sportsontheweb.net/botijo/?c=181901
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="MOVISTAR LA LIGA HD" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2019/06/movistar-laliga.jpg" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA HD
+http://kristoteve.sportsontheweb.net/botijo/?c=190999
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="MOVISTAR LALIGA FHD" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LALIGA FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151645
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK FHD 1" group-title="ESPAÑA DEPORTES",LALIGA SMARTBANK FHD 1
+http://kristoteve.sportsontheweb.net/botijo/?c=240420
+#EXTINF:-1 tvg-name="MOVISTAR LIGA HD ALTERNATIVA" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA HD ALTERNATIVA
+http://kristoteve.sportsontheweb.net/botijo/?c=242408
+#EXTINF:-1 tvg-name="LALIGA FHD ALTERNATIVA" group-title="ESPAÑA DEPORTES",LALIGA FHD ALTERNATIVA
+http://kristoteve.sportsontheweb.net/botijo/?c=242409
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LALIGA 2K" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LALIGA 2K
+http://kristoteve.sportsontheweb.net/botijo/?c=151646
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="MOVISTAR LALIGA 4k" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LALIGA 4k
+http://kristoteve.sportsontheweb.net/botijo/?c=151647
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 1 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 1 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151648
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA 2 HD" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA 2 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151642
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151649
+#EXTINF:-1 tvg-name="MOVISTAR  LALIGA 2 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR  LALIGA 2 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151650
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 2 FHD (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 2 FHD (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151651
+#EXTINF:-1 tvg-name="MOVISTAR  LA LIGA 3 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR  LA LIGA 3 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151652
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 4 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 4 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151653
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 5 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 5 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151654
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 6 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 6 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151655
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 7 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 7 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151656
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 10 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 10 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151657
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151658
+#EXTINF:-1 tvg-name="MOVISTAR LA LIGA 9 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 9 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151659
+#EXTINF:-1 tvg-id="M. LaLiga" tvg-name="MOVISTAR LA LIGA 8 (Solo Eventos)" tvg-logo="https://i.imgur.com/YE22cNP.png" group-title="ESPAÑA DEPORTES",MOVISTAR LA LIGA 8 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151660
+#EXTINF:-1 tvg-name="LaLiga TV Bar SD" group-title="ESPAÑA DEPORTES",LaLiga TV Bar SD
+http://kristoteve.sportsontheweb.net/botijo/?c=155932
+#EXTINF:-1 tvg-name="LaLiga TV Bar HD" tvg-logo="http://cms.bimbotv.net:2052/images/logos/laligatvbar.png" group-title="ESPAÑA DEPORTES",LaLiga TV Bar HD
+http://kristoteve.sportsontheweb.net/botijo/?c=155933
+#EXTINF:-1 tvg-name=" LaLiga TV Bar FHD" group-title="ESPAÑA DEPORTES", LaLiga TV Bar FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=155934
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="MOVISTAR LIGA CAMPEONES SD" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES SD
+http://kristoteve.sportsontheweb.net/botijo/?c=214776
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="MOVISTAR LIGA CAMPEONES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151662
+#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-name="MOVISTAR LIGA CAMPEONES FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151663
+#EXTINF:-1 tvg-id="M.LCAMPEONES" tvg-name="M.LIGA DE CAMPEONES 4K" group-title="ESPAÑA DEPORTES",M.LIGA DE CAMPEONES 4K
+http://kristoteve.sportsontheweb.net/botijo/?c=151714
+#EXTINF:-1 tvg-name="M+  LIGA CAMPEONES ALTERNATIVA" group-title="ESPAÑA DEPORTES",M+  LIGA CAMPEONES ALTERNATIVA
+http://kristoteve.sportsontheweb.net/botijo/?c=242405
+#EXTINF:-1 tvg-name="M+  LIGA CAMPEONES HD ALTERNATIVA" group-title="ESPAÑA DEPORTES",M+  LIGA CAMPEONES HD ALTERNATIVA
+http://kristoteve.sportsontheweb.net/botijo/?c=242406
+#EXTINF:-1 tvg-name="M+  LIGA CAMPEONES FHD ALTERNATIVA" group-title="ESPAÑA DEPORTES",M+  LIGA CAMPEONES FHD ALTERNATIVA
+http://kristoteve.sportsontheweb.net/botijo/?c=242407
+#EXTINF:-1 tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="MOVISTAR LIGA CAMPEONES 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 1
+http://kristoteve.sportsontheweb.net/botijo/?c=151664
+#EXTINF:-1 tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="MOVISTAR LIGA CAMPEONES 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 1 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151665
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://kristoteve.sportsontheweb.net/botijo/?c=151666
+#EXTINF:-1 tvg-id="M.LCAMPEON2 FHD" tvg-name="MOVISTAR LIGA CAMPEONES 2 FULLHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 2 FULLHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151667
+#EXTINF:-1 tvg-name="MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://kristoteve.sportsontheweb.net/botijo/?c=151668
+#EXTINF:-1 tvg-name="MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://kristoteve.sportsontheweb.net/botijo/?c=151669
+#EXTINF:-1 tvg-name="MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://kristoteve.sportsontheweb.net/botijo/?c=151670
+#EXTINF:-1 tvg-name="MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://kristoteve.sportsontheweb.net/botijo/?c=151671
+#EXTINF:-1 tvg-name="MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://kristoteve.sportsontheweb.net/botijo/?c=151672
+#EXTINF:-1 tvg-name="MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1460px-Movistar_Liga_de_Campeones.svg.png" group-title="ESPAÑA DEPORTES",MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://kristoteve.sportsontheweb.net/botijo/?c=151673
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png" group-title="ESPAÑA DEPORTES",EUROSPORT
+http://kristoteve.sportsontheweb.net/botijo/?c=151677
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="EUROSPORT HD" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png" group-title="ESPAÑA DEPORTES",EUROSPORT HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151676
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT FULL HD" tvg-logo="http://eter-picons.one/picons/Eurosport_1.png" group-title="ESPAÑA DEPORTES",EUROSPORT FULL HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151675
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="Eurosport  2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="ESPAÑA DEPORTES",Eurosport  2
+http://kristoteve.sportsontheweb.net/botijo/?c=151674
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="MOVISTAR  GOLF" tvg-logo="http://eter-picons.one/picons/M.Golf_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR  GOLF
+http://kristoteve.sportsontheweb.net/botijo/?c=151678
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="MOVISTAR GOLF HD" tvg-logo="http://eter-picons.one/picons/M.Golf_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR GOLF HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151679
+#EXTINF:-1 tvg-id="M+ GOLF HD" tvg-name="MOVISTAR GOLF FHD" tvg-logo="http://eter-picons.one/picons/M.Golf_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR GOLF FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151697
+#EXTINF:-1 tvg-id="BARCA TV" tvg-name="BARCA TV" tvg-logo="http://hudini.site:8080/images/08dcf503e68f9690b1b263534a8af781.png" group-title="ESPAÑA DEPORTES",BARCA TV
+http://kristoteve.sportsontheweb.net/botijo/?c=151638
+#EXTINF:-1 tvg-name="REAL MADRID TV" group-title="ESPAÑA DEPORTES",REAL MADRID TV
+http://kristoteve.sportsontheweb.net/botijo/?c=151683
+#EXTINF:-1 tvg-name="REAL MADRID FHD" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="ESPAÑA DEPORTES",REAL MADRID FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151684
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV FHD" tvg-logo="http://hudini.site:8080/images/6fab318601e89099a3df0647771838bd.png" group-title="ESPAÑA DEPORTES",GOL TV FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151685
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="VAMOS  FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ESPAÑA DEPORTES",VAMOS  FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151639
+#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-name="VAMOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ESPAÑA DEPORTES",VAMOS HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151640
+#EXTINF:-1 tvg-id="#VAMOS" tvg-name="VAMOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VAMOSD" group-title="ESPAÑA DEPORTES",VAMOS SD
+http://kristoteve.sportsontheweb.net/botijo/?c=151641
+#EXTINF:-1 tvg-id="M. DEPORTES" tvg-name="MOVISTAR  DEPORTE" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR  DEPORTE
+http://kristoteve.sportsontheweb.net/botijo/?c=151680
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="MOVISTAR DEPORTE HD" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151681
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="MOVISTAR DEPORTE FHD" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151682
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="MOVISTAR DEPORTE 1 FULLHD" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 1 FULLHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151686
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR DEPORTE 1" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 1
+http://kristoteve.sportsontheweb.net/botijo/?c=151687
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTE 2 (Solo Eventos)" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 2 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151688
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTE 3 (Solo Eventos)" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 3 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151689
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTE 4 (Solo Eventos)" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 4 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151690
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTE 5 (Solo Eventos)" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 5 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151691
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="MOVISTAR DEPORTE 6 (Solo Eventos)" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 6 (Solo Eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=151692
+#EXTINF:-1 tvg-name="MOVISTAR DEPORTE 8" tvg-logo="http://eter-picons.one/picons/M.Deportes.png" group-title="ESPAÑA DEPORTES",MOVISTAR DEPORTE 8
+http://kristoteve.sportsontheweb.net/botijo/?c=151693
+#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="TELEDEPORTE" tvg-logo="http://doctorverde.ddns.net:7070/picon/teledeporte.png" group-title="ESPAÑA DEPORTES",TELEDEPORTE
+http://kristoteve.sportsontheweb.net/botijo/?c=151698
+#EXTINF:-1 tvg-id="TELEDEPORTE" tvg-name="TELEDEPORTE FULL HD" tvg-logo="http://doctorverde.ddns.net:7070/picon/teledeporte.png" group-title="ESPAÑA DEPORTES",TELEDEPORTE FULL HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151699
+#EXTINF:-1 tvg-name="TELEDEPORTE FHD" tvg-logo="http://doctorverde.ddns.net:7070/picon/teledeporte.png" group-title="ESPAÑA DEPORTES",TELEDEPORTE FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151700
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MOVISTAR  TOROS" tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR  TOROS
+http://kristoteve.sportsontheweb.net/botijo/?c=151701
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="MOVISTAR TOROS HD" tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR TOROS HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151702
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MOVISTAR TOROS FHD" tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="ESPAÑA DEPORTES",MOVISTAR TOROS FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151703
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 4K" group-title="ESPAÑA DEPORTES",DAZN F1 4K
+http://kristoteve.sportsontheweb.net/botijo/?c=151713
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MULTIDEPORTE" group-title="ESPAÑA DEPORTES",MULTIDEPORTE
+http://kristoteve.sportsontheweb.net/botijo/?c=140392
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MULTIDEPORTE HD" group-title="ESPAÑA DEPORTES",MULTIDEPORTE HD
+http://kristoteve.sportsontheweb.net/botijo/?c=140434
+#EXTINF:-1 tvg-name="M. LaLiga OPC2" tvg-logo="http://viptv.be:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="ESPAÑA DEPORTES",M. LaLiga OPC2
+http://kristoteve.sportsontheweb.net/botijo/?c=158913
+#EXTINF:-1 tvg-name="M. LaLiga HD OPC2" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="ESPAÑA DEPORTES",M. LaLiga HD OPC2
+http://kristoteve.sportsontheweb.net/botijo/?c=158914
+#EXTINF:-1 tvg-name="M. LaLiga OPC3" tvg-logo="http://viptv.be:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="ESPAÑA DEPORTES",M. LaLiga OPC3
+http://kristoteve.sportsontheweb.net/botijo/?c=158917
+#EXTINF:-1 tvg-name="M. LaLiga 2 OPC2" tvg-logo="http://viptv.be:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="ESPAÑA DEPORTES",M. LaLiga 2 OPC2
+http://kristoteve.sportsontheweb.net/botijo/?c=158918
+#EXTINF:-1 tvg-name="M. LaLiga 3 OPC2" tvg-logo="http://viptv.be:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="ESPAÑA DEPORTES",M. LaLiga 3 OPC2
+http://kristoteve.sportsontheweb.net/botijo/?c=158919
+#EXTINF:-1 tvg-name="M Liga Especial" tvg-logo="http://viptv.be:8080/images/b0e265f2cf2d6fbe37ca92712ab231b9.png" group-title="ESPAÑA DEPORTES",M Liga Especial
+http://kristoteve.sportsontheweb.net/botijo/?c=158915
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK FHD" tvg-logo="https://cdn.iconscout.com/icon/free/png-256/espn-1-461787.png" group-title="ESPAÑA DEPORTES",LALIGA SMARTBANK FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=158916
+#EXTINF:-1 tvg-name="TWITCH IBAI" group-title="ESPAÑA DEPORTES",TWITCH IBAI
+http://kristoteve.sportsontheweb.net/botijo/?c=181898
+#EXTINF:-1 tvg-name="VIP- EUROSPORT 1" group-title="ESPAÑA DEPORTES",VIP- EUROSPORT 1
+http://kristoteve.sportsontheweb.net/botijo/?c=204124
+#EXTINF:-1 tvg-name="VIP- EUROSPORT 2" group-title="ESPAÑA DEPORTES",VIP- EUROSPORT 2
+http://kristoteve.sportsontheweb.net/botijo/?c=204125
+#EXTINF:-1 tvg-name="VIP- EUROSPORT 3" group-title="ESPAÑA DEPORTES",VIP- EUROSPORT 3
+http://kristoteve.sportsontheweb.net/botijo/?c=204126
+#EXTINF:-1 tvg-name="VIP- EUROSPORT 4" group-title="ESPAÑA DEPORTES",VIP- EUROSPORT 4
+http://kristoteve.sportsontheweb.net/botijo/?c=204127
+#EXTINF:-1 tvg-name="VIP- EUROSPORT 5" group-title="ESPAÑA DEPORTES",VIP- EUROSPORT 5
+http://kristoteve.sportsontheweb.net/botijo/?c=204128
+#EXTINF:-1 tvg-name="VIP- EUROSPORT 6" group-title="ESPAÑA DEPORTES",VIP- EUROSPORT 6
+http://kristoteve.sportsontheweb.net/botijo/?c=204129
+#EXTINF:-1 tvg-name="VIP- EUROSPORT 7" group-title="ESPAÑA DEPORTES",VIP- EUROSPORT 7
+http://kristoteve.sportsontheweb.net/botijo/?c=204130
+#EXTINF:-1 tvg-name="VIP- EUROSPORT 8" group-title="ESPAÑA DEPORTES",VIP- EUROSPORT 8
+http://kristoteve.sportsontheweb.net/botijo/?c=204131
+#EXTINF:-1 tvg-name="VIP- EUROSPORT 9" group-title="ESPAÑA DEPORTES",VIP- EUROSPORT 9
+http://kristoteve.sportsontheweb.net/botijo/?c=204132
+#EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-name="SEVILLA FC" group-title="ESPAÑA DEPORTES",SEVILLA FC
+http://kristoteve.sportsontheweb.net/botijo/?c=205229
+#EXTINF:-1 tvg-id="Betis TV HD" tvg-name="CANAL BETIS TV" group-title="ESPAÑA DEPORTES",CANAL BETIS TV
+http://kristoteve.sportsontheweb.net/botijo/?c=205230
+#EXTINF:-1 tvg-name="WORLD PADEL TOUR TV" group-title="ESPAÑA DEPORTES",WORLD PADEL TOUR TV
+http://kristoteve.sportsontheweb.net/botijo/?c=210263
+#EXTINF:-1 tvg-name="ELLAS #V FHD" group-title="ESPAÑA DEPORTES",ELLAS #V FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=219264
+#EXTINF:-1 tvg-name="ELLAS #V HD" group-title="ESPAÑA DEPORTES",ELLAS #V HD
+http://kristoteve.sportsontheweb.net/botijo/?c=219265
+#EXTINF:-1 tvg-name="ELLAS #V SD" group-title="ESPAÑA DEPORTES",ELLAS #V SD
+http://kristoteve.sportsontheweb.net/botijo/?c=219266
+#EXTINF:-1 tvg-name="UEFA EVENTO 1 (solo eventos)" group-title="ESPAÑA DEPORTES",UEFA EVENTO 1 (solo eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=219641
+#EXTINF:-1 tvg-name="UEFA EVENTO 2 (solo eventos)" group-title="ESPAÑA DEPORTES",UEFA EVENTO 2 (solo eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=219642
+#EXTINF:-1 tvg-name="UEFA EVENTO 3 (solo eventos)" group-title="ESPAÑA DEPORTES",UEFA EVENTO 3 (solo eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=219643
+#EXTINF:-1 tvg-name="UEFA EVENTO 4 (solo eventos)" group-title="ESPAÑA DEPORTES",UEFA EVENTO 4 (solo eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=219644
+#EXTINF:-1 tvg-name="UEFA EVENTO 5 (solo eventos)" group-title="ESPAÑA DEPORTES",UEFA EVENTO 5 (solo eventos)
+http://kristoteve.sportsontheweb.net/botijo/?c=219645
+#EXTINF:-1 tvg-name="BETIS TV" group-title="ESPAÑA DEPORTES",BETIS TV
+http://kristoteve.sportsontheweb.net/botijo/?c=229737
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD" group-title="ESPAÑA DAZN",DAZN F1 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151704
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 FHD" group-title="ESPAÑA DAZN",DAZN 1 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151705
+#EXTINF:-1 tvg-name="DAZN SD 2" group-title="ESPAÑA DAZN",DAZN SD 2
+http://kristoteve.sportsontheweb.net/botijo/?c=151706
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 HD" group-title="ESPAÑA DAZN",DAZN 2 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151707
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="DAZN 2 FHD" group-title="ESPAÑA DAZN",DAZN 2 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151708
+#EXTINF:-1 tvg-name="DAZN 3 HD" group-title="ESPAÑA DAZN",DAZN 3 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151709
+#EXTINF:-1 tvg-name="DAZN 3 FHD" group-title="ESPAÑA DAZN",DAZN 3 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151710
+#EXTINF:-1 tvg-name="DAZN 4 HD" group-title="ESPAÑA DAZN",DAZN 4 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=151711
+#EXTINF:-1 tvg-name="DAZN 4 FHD" group-title="ESPAÑA DAZN",DAZN 4 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=151712
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 HD" group-title="ESPAÑA DAZN",DAZN 1 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=152089
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 SD" group-title="ESPAÑA DAZN",DAZN 1 SD
+http://kristoteve.sportsontheweb.net/botijo/?c=159067
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 " group-title="ESPAÑA DAZN",DAZN 1 
+http://kristoteve.sportsontheweb.net/botijo/?c=159068
+#EXTINF:-1 tvg-name="DAZN F1 HD" group-title="ESPAÑA DAZN",DAZN F1 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=202655
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LIGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=228844
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LIGA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA HD
+http://kristoteve.sportsontheweb.net/botijo/?c=228845
+#EXTINF:-1 tvg-name="DAZN LIGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA SD
+http://kristoteve.sportsontheweb.net/botijo/?c=228846
+#EXTINF:-1 tvg-name="DAZN LIGA ALTERNATIVA" group-title="ESPAÑA DAZN",DAZN LIGA ALTERNATIVA
+http://kristoteve.sportsontheweb.net/botijo/?c=242410
+#EXTINF:-1 tvg-name="DAZN LIGA 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA 2 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=228848
+#EXTINF:-1 tvg-name="DAZN LIGA 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA 2 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=228849
+#EXTINF:-1 tvg-name="DAZN LIGA 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA 2 SD
+http://kristoteve.sportsontheweb.net/botijo/?c=228850
+#EXTINF:-1 tvg-name="DAZN LIGA 2 HD (OP1)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/512px-DAZN_LaLiga_logo.svg.png" group-title="ESPAÑA DAZN",DAZN LIGA 2 HD (OP1)
+http://kristoteve.sportsontheweb.net/botijo/?c=228851
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LIGA ALTERNATIVA 2" group-title="ESPAÑA DAZN",DAZN LIGA ALTERNATIVA 2
+http://kristoteve.sportsontheweb.net/botijo/?c=243632
+#EXTINF:-1 tvg-name="Costa del Sol TV" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",Costa del Sol TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199778
+#EXTINF:-1 tvg-name="CanalCosta" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",CanalCosta
+http://kristoteve.sportsontheweb.net/botijo/?c=199780
+#EXTINF:-1 tvg-name="Canal San Roque" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",Canal San Roque
+http://kristoteve.sportsontheweb.net/botijo/?c=199781
+#EXTINF:-1 tvg-name="Television Municipal de Cordoba" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",Television Municipal de Cordoba
+http://kristoteve.sportsontheweb.net/botijo/?c=199782
+#EXTINF:-1 tvg-name="Canal Malaga" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",Canal Malaga
+http://kristoteve.sportsontheweb.net/botijo/?c=199788
+#EXTINF:-1 tvg-name="Canal Doñana" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",Canal Doñana
+http://kristoteve.sportsontheweb.net/botijo/?c=199789
+#EXTINF:-1 tvg-name="Cadena Elite" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",Cadena Elite
+http://kristoteve.sportsontheweb.net/botijo/?c=199792
+#EXTINF:-1 tvg-name="101TV Malaga" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",101TV Malaga
+http://kristoteve.sportsontheweb.net/botijo/?c=199793
+#EXTINF:-1 tvg-name="Interalmeria HD" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",Interalmeria HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199794
+#EXTINF:-1 tvg-name="Estepona TV" tvg-logo="http://images-thumbs.thefullwiki.org/F/l/a/Flags_of_the_autonomous_communities_of_Spain.png" group-title="AUTONOMICOS",Estepona TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199795
+#EXTINF:-1 tvg-name="+ + + + + + + A R A G O N + + + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + A R A G O N + + + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199797
+#EXTINF:-1 tvg-name="Aragon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Aragon.svg/121px-Flag_of_Aragon.svg.png" group-title="AUTONOMICOS",Aragon TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199798
+#EXTINF:-1 tvg-name="Aragon Deporte HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Aragon.svg/121px-Flag_of_Aragon.svg.png" group-title="AUTONOMICOS",Aragon Deporte HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199799
+#EXTINF:-1 tvg-name="Huesca TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Aragon.svg/121px-Flag_of_Aragon.svg.png" group-title="AUTONOMICOS",Huesca TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199800
+#EXTINF:-1 tvg-name="Canal 25 Barbastro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Aragon.svg/121px-Flag_of_Aragon.svg.png" group-title="AUTONOMICOS",Canal 25 Barbastro TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199801
+#EXTINF:-1 tvg-name="+ + + + + + + A S T U R I A S + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + A S T U R I A S + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199802
+#EXTINF:-1 tvg-name="-TPA7" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Asturias-200x200.jpg" group-title="AUTONOMICOS",-TPA7
+http://kristoteve.sportsontheweb.net/botijo/?c=199803
+#EXTINF:-1 tvg-name="+ + + + + + + C A N A R I A S + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + C A N A R I A S + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199804
+#EXTINF:-1 tvg-name="Canarias TV" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",Canarias TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199806
+#EXTINF:-1 tvg-name="Noroeste Television" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",Noroeste Television
+http://kristoteve.sportsontheweb.net/botijo/?c=199807
+#EXTINF:-1 tvg-name="Mirame TV" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",Mirame TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199808
+#EXTINF:-1 tvg-name="Lancelot TV" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",Lancelot TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199809
+#EXTINF:-1 tvg-name="Canal 4 Tenerife" tvg-logo="http://www.tutiendanautica.com/wp-content/uploads/2015/02/Bandera-Canarias-200x200.jpg" group-title="AUTONOMICOS",Canal 4 Tenerife
+http://kristoteve.sportsontheweb.net/botijo/?c=199811
+#EXTINF:-1 tvg-name="+ + + + + + + C A N T A B R I A + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + C A N T A B R I A + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199812
+#EXTINF:-1 tvg-name="Popular TV Cantabria" tvg-logo="https://i.pinimg.com/236x/56/2b/40/562b40821c3fad56260c8a30cf3306d7.jpg" group-title="AUTONOMICOS",Popular TV Cantabria
+http://kristoteve.sportsontheweb.net/botijo/?c=199813
+#EXTINF:-1 tvg-name="+ + + + + CASTILLA  LA  MANCHA + + + + + +" group-title="AUTONOMICOS",+ + + + + CASTILLA  LA  MANCHA + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199814
+#EXTINF:-1 tvg-name="CMM" tvg-logo="https://www.flags.de/animierte-flaggen-gif/images/Flagge_Kastilien-La-Mancha.jpg" group-title="AUTONOMICOS",CMM
+http://kristoteve.sportsontheweb.net/botijo/?c=199815
+#EXTINF:-1 tvg-name="Canal 4 Mancha Centro HD" tvg-logo="https://www.flags.de/animierte-flaggen-gif/images/Flagge_Kastilien-La-Mancha.jpg" group-title="AUTONOMICOS",Canal 4 Mancha Centro HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199816
+#EXTINF:-1 tvg-name="Hellin TV" tvg-logo="https://www.flags.de/animierte-flaggen-gif/images/Flagge_Kastilien-La-Mancha.jpg" group-title="AUTONOMICOS",Hellin TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199817
+#EXTINF:-1 tvg-name="Canal Diocesano Toledo" tvg-logo="https://www.flags.de/animierte-flaggen-gif/images/Flagge_Kastilien-La-Mancha.jpg" group-title="AUTONOMICOS",Canal Diocesano Toledo
+http://kristoteve.sportsontheweb.net/botijo/?c=199818
+#EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://www.flags.de/animierte-flaggen-gif/images/Flagge_Kastilien-La-Mancha.jpg" group-title="AUTONOMICOS",Alcarria TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199819
+#EXTINF:-1 tvg-name="+ + + + + CASTILLA  LEON + + + + + + +" group-title="AUTONOMICOS",+ + + + + CASTILLA  LEON + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199820
+#EXTINF:-1 tvg-name="TV Benavente HD" tvg-logo="https://www.az-flag.com/media/catalog/product/cache/9/small_image/168x168/5e06319eda06f020e43594a9c230972d/f/7/f71.jpg" group-title="AUTONOMICOS",TV Benavente HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199821
+#EXTINF:-1 tvg-name="Telearanda" tvg-logo="https://www.az-flag.com/media/catalog/product/cache/9/small_image/168x168/5e06319eda06f020e43594a9c230972d/f/7/f71.jpg" group-title="AUTONOMICOS",Telearanda
+http://kristoteve.sportsontheweb.net/botijo/?c=199822
+#EXTINF:-1 tvg-name="+ + + + + + + C A T A L U Ñ A + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + C A T A L U Ñ A + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199823
+#EXTINF:-1 tvg-name="25 TV" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",25 TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199825
+#EXTINF:-1 tvg-name="TV Girona" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",TV Girona
+http://kristoteve.sportsontheweb.net/botijo/?c=199826
+#EXTINF:-1 tvg-name="Mola TV" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",Mola TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199827
+#EXTINF:-1 tvg-name="Canal 10 EmpordÃ" tvg-logo="https://emassl.files.wordpress.com/2013/09/catalc3a0.jpg" group-title="AUTONOMICOS",Canal 10 EmpordÃ
+http://kristoteve.sportsontheweb.net/botijo/?c=199830
+#EXTINF:-1 tvg-name="+ + + + + + + + + C E U T A + + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + + + C E U T A + + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199831
+#EXTINF:-1 tvg-name="RTVCE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/lv/thumb/d/d3/Flag_of_Ceuta.svg/320px-Flag_of_Ceuta.svg.png" group-title="AUTONOMICOS",RTVCE HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199832
+#EXTINF:-1 tvg-name="+ + + + + + EXTREMADURA + + + + + + +" group-title="AUTONOMICOS",+ + + + + + EXTREMADURA + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199834
+#EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="http://www.spain.it/navigazione/bandiere-spagna/bandieraextremadura.jpg" group-title="AUTONOMICOS",Canal Extremadura
+http://kristoteve.sportsontheweb.net/botijo/?c=199835
+#EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="http://discusfish.xyz:25461/images/ec11a40261e5029b6535cbb6b0e0c65b.jpg" group-title="AUTONOMICOS",Canal Extremadura
+http://kristoteve.sportsontheweb.net/botijo/?c=199836
+#EXTINF:-1 tvg-name="+ + + + + + + + + G A L I C I A + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + + + G A L I C I A + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199837
+#EXTINF:-1 tvg-name="TVG" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",TVG
+http://kristoteve.sportsontheweb.net/botijo/?c=199838
+#EXTINF:-1 tvg-name="TVG 2 HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",TVG 2 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199839
+#EXTINF:-1 tvg-name="TVG Musigal HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",TVG Musigal HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199840
+#EXTINF:-1 tvg-name="TVG Momentos G" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",TVG Momentos G
+http://kristoteve.sportsontheweb.net/botijo/?c=199841
+#EXTINF:-1 tvg-name="TVG Infantil" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",TVG Infantil
+http://kristoteve.sportsontheweb.net/botijo/?c=199842
+#EXTINF:-1 tvg-name="TVG Evento 1 HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",TVG Evento 1 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199843
+#EXTINF:-1 tvg-name="TVG Evento 2 HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",TVG Evento 2 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199844
+#EXTINF:-1 tvg-name="TVG Evento 3 HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",TVG Evento 3 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199845
+#EXTINF:-1 tvg-name="TVG Cultura HD" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",TVG Cultura HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199846
+#EXTINF:-1 tvg-name="TV Ferrol" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",TV Ferrol
+http://kristoteve.sportsontheweb.net/botijo/?c=199847
+#EXTINF:-1 tvg-name="Televigo" tvg-logo="https://thumbs.dreamstime.com/t/bandeira-de-galiza-espanha-90908868.jpg" group-title="AUTONOMICOS",Televigo
+http://kristoteve.sportsontheweb.net/botijo/?c=199848
+#EXTINF:-1 tvg-name="+ + + + + + + ISLAS  BALEARES + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + ISLAS  BALEARES + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199849
+#EXTINF:-1 tvg-name="Ibiza Global TV" tvg-logo="https://profesionaljdeabajo.files.wordpress.com/2013/07/baleares.png?w=150&h=100" group-title="AUTONOMICOS",Ibiza Global TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199851
+#EXTINF:-1 tvg-name="Canal 4" tvg-logo="https://profesionaljdeabajo.files.wordpress.com/2013/07/baleares.png?w=150&h=100" group-title="AUTONOMICOS",Canal 4
+http://kristoteve.sportsontheweb.net/botijo/?c=199852
+#EXTINF:-1 tvg-name="+ + + + + + + +  LA  RIOJA + + + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + +  LA  RIOJA + + + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199853
+#EXTINF:-1 tvg-name="+ + + + + + + + + M A D R I D + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + + + M A D R I D + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199854
+#EXTINF:-1 tvg-name="Solidaria TV HD" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",Solidaria TV HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199857
+#EXTINF:-1 tvg-name="Logos TV" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",Logos TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199858
+#EXTINF:-1 tvg-name="Distrito TV" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",Distrito TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199859
+#EXTINF:-1 tvg-name="C33 Madrid HD" tvg-logo="https://www.banderasvdk.com/fotos/banderas/200-bandera-comunidad-de-madrid.jpg" group-title="AUTONOMICOS",C33 Madrid HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199861
+#EXTINF:-1 tvg-name="+ + + + + + + + M E L I L L A + + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + + M E L I L L A + + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199862
+#EXTINF:-1 tvg-name="Popular TV Melilla" tvg-logo="https://st-listas.20minutos.es/images/2011-04/283527/2952671_249px.jpg?1302732532" group-title="AUTONOMICOS",Popular TV Melilla
+http://kristoteve.sportsontheweb.net/botijo/?c=199863
+#EXTINF:-1 tvg-name="Melilla TV HD" tvg-logo="https://st-listas.20minutos.es/images/2011-04/283527/2952671_249px.jpg?1302732532" group-title="AUTONOMICOS",Melilla TV HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199864
+#EXTINF:-1 tvg-name="+ + + + + + + + + M U R C I A + + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + + + M U R C I A + + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199865
+#EXTINF:-1 tvg-name="RTV Vida HD" tvg-logo="https://www.bing.com/th?id=OIP.pNAwGYRYktHgV2ZFi3W3dwHaE4&pid=Api&rs=1" group-title="AUTONOMICOS",RTV Vida HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199866
+#EXTINF:-1 tvg-name="+ + + + + + + N A V A R R A + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + N A V A R R A + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199867
+#EXTINF:-1 tvg-name="TeleRibera" tvg-logo="http://srmfyc.es/wp-content/uploads/2014/12/navarra.jpg" group-title="AUTONOMICOS",TeleRibera
+http://kristoteve.sportsontheweb.net/botijo/?c=199868
+#EXTINF:-1 tvg-name="+ + + + + + + PAIS  VASCO + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + PAIS  VASCO + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199869
+#EXTINF:-1 tvg-name="ETB 1 HD" tvg-logo="http://discusfish.xyz:25461/images/e9a57e41c815f2b81a689907f420f7aa.png" group-title="AUTONOMICOS",ETB 1 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199870
+#EXTINF:-1 tvg-name="ETB 2 HD" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",ETB 2 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199871
+#EXTINF:-1 tvg-name="Oizmendi Telebista" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",Oizmendi Telebista
+http://kristoteve.sportsontheweb.net/botijo/?c=199873
+#EXTINF:-1 tvg-name="GITB Goierri Irrati Telebista" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",GITB Goierri Irrati Telebista
+http://kristoteve.sportsontheweb.net/botijo/?c=199876
+#EXTINF:-1 tvg-name="Erlo Telebista" tvg-logo="http://carlitoz.com/images250_/flag-red-country-green-basque-white-lines-line.png" group-title="AUTONOMICOS",Erlo Telebista
+http://kristoteve.sportsontheweb.net/botijo/?c=199877
+#EXTINF:-1 tvg-name="+ + + + + + + V A L E N C I A + + + + + + + +" group-title="AUTONOMICOS",+ + + + + + + V A L E N C I A + + + + + + + +
+http://kristoteve.sportsontheweb.net/botijo/?c=199879
+#EXTINF:-1 tvg-name="TeVe4" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",TeVe4
+http://kristoteve.sportsontheweb.net/botijo/?c=199883
+#EXTINF:-1 tvg-name="Telesafor" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",Telesafor
+http://kristoteve.sportsontheweb.net/botijo/?c=199884
+#EXTINF:-1 tvg-name="RTV Vida HD" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",RTV Vida HD
+http://kristoteve.sportsontheweb.net/botijo/?c=199886
+#EXTINF:-1 tvg-name="RiberaTV" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",RiberaTV
+http://kristoteve.sportsontheweb.net/botijo/?c=199887
+#EXTINF:-1 tvg-name="Levante TV" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",Levante TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199888
+#EXTINF:-1 tvg-name="Elche 7 TV" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",Elche 7 TV
+http://kristoteve.sportsontheweb.net/botijo/?c=199890
+#EXTINF:-1 tvg-name="Canal 56" tvg-logo="https://www.ecestaticos.com/image/clipping/330/7984adbf39fcfbe6af4d0d6537ba8b06/bandera-de-la-comunidad-valenciana.jpg" group-title="AUTONOMICOS",Canal 56
+http://kristoteve.sportsontheweb.net/botijo/?c=199891
+#EXTINF:-1 tvg-name="ES: TV3" group-title="AUTONOMICOS",ES: TV3
+http://kristoteve.sportsontheweb.net/botijo/?c=202656
+#EXTINF:-1 tvg-name="À Punt HD" group-title="AUTONOMICOS",À Punt HD
+http://kristoteve.sportsontheweb.net/botijo/?c=209328
+#EXTINF:-1 group-title="AUTONOMICOS",
+http://kristoteve.sportsontheweb.net/botijo/?c=241387
+#EXTINF:-1 tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="AUTONOMICOS",La 1
+http://kristoteve.sportsontheweb.net/botijo/?c=241388
+#EXTINF:-1 tvg-name="La 1" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="AUTONOMICOS",La 1
+http://kristoteve.sportsontheweb.net/botijo/?c=241389
+#EXTINF:-1 tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="AUTONOMICOS",La 2
+http://kristoteve.sportsontheweb.net/botijo/?c=241390
+#EXTINF:-1 tvg-name="La 2" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="AUTONOMICOS",La 2
+http://kristoteve.sportsontheweb.net/botijo/?c=241391
+#EXTINF:-1 tvg-name="TRECE" tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="AUTONOMICOS",TRECE
+http://kristoteve.sportsontheweb.net/botijo/?c=241392
+#EXTINF:-1 tvg-name="El Toro TV" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="AUTONOMICOS",El Toro TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241393
+#EXTINF:-1 tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="AUTONOMICOS",24h
+http://kristoteve.sportsontheweb.net/botijo/?c=241394
+#EXTINF:-1 tvg-name="24h" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="AUTONOMICOS",24h
+http://kristoteve.sportsontheweb.net/botijo/?c=241395
+#EXTINF:-1 tvg-name="Nius HD" tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=200&height=200" group-title="AUTONOMICOS",Nius HD
+http://kristoteve.sportsontheweb.net/botijo/?c=241396
+#EXTINF:-1 tvg-name="Nius SD" tvg-logo="https://graph.facebook.com/NiusDiario/picture?width=200&height=200" group-title="AUTONOMICOS",Nius SD
+http://kristoteve.sportsontheweb.net/botijo/?c=241397
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="AUTONOMICOS",Euronews
+http://kristoteve.sportsontheweb.net/botijo/?c=241398
+#EXTINF:-1 tvg-name="7NN Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="AUTONOMICOS",7NN Noticias
+http://kristoteve.sportsontheweb.net/botijo/?c=241400
+#EXTINF:-1 tvg-name="El Confidencial" tvg-logo="https://graph.facebook.com/elconfidencial/picture?width=200&height=200" group-title="AUTONOMICOS",El Confidencial
+http://kristoteve.sportsontheweb.net/botijo/?c=241401
+#EXTINF:-1 tvg-name="Teledeporte GEO" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="AUTONOMICOS",Teledeporte GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241402
+#EXTINF:-1 tvg-name="Teledeporte GEO" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="AUTONOMICOS",Teledeporte GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241403
+#EXTINF:-1 tvg-name="Esport 3 GEO CAT" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="AUTONOMICOS",Esport 3 GEO CAT
+http://kristoteve.sportsontheweb.net/botijo/?c=241404
+#EXTINF:-1 tvg-name="Esport 3 GEO" tvg-logo="https://graph.facebook.com/Esport3/picture?width=200&height=200" group-title="AUTONOMICOS",Esport 3 GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241405
+#EXTINF:-1 tvg-name="ETB Deportes" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="AUTONOMICOS",ETB Deportes
+http://kristoteve.sportsontheweb.net/botijo/?c=241406
+#EXTINF:-1 tvg-name="Aragón Deporte" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="AUTONOMICOS",Aragón Deporte
+http://kristoteve.sportsontheweb.net/botijo/?c=241407
+#EXTINF:-1 tvg-name="Aragón Deporte" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="AUTONOMICOS",Aragón Deporte
+http://kristoteve.sportsontheweb.net/botijo/?c=241408
+#EXTINF:-1 tvg-name="Aragón Deporte" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="AUTONOMICOS",Aragón Deporte
+http://kristoteve.sportsontheweb.net/botijo/?c=241409
+#EXTINF:-1 tvg-name="Aragón Deporte" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="AUTONOMICOS",Aragón Deporte
+http://kristoteve.sportsontheweb.net/botijo/?c=241410
+#EXTINF:-1 tvg-name="RealMadrid TV" tvg-logo="https://graph.facebook.com/RealMadrid/picture?width=200&height=200" group-title="AUTONOMICOS",RealMadrid TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241411
+#EXTINF:-1 tvg-name="Real Federación Española de Fútbol" tvg-logo="https://graph.facebook.com/RFEF/picture?width=200&height=200" group-title="AUTONOMICOS",Real Federación Española de Fútbol
+http://kristoteve.sportsontheweb.net/botijo/?c=241412
+#EXTINF:-1 tvg-name="Clan GEO" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="AUTONOMICOS",Clan GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241413
+#EXTINF:-1 tvg-name="Clan GEO" tvg-logo="https://graph.facebook.com/clantve/picture?width=200&height=200" group-title="AUTONOMICOS",Clan GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241414
+#EXTINF:-1 tvg-name="Pequeradio TV" tvg-logo="https://graph.facebook.com/Pequeradio/picture?width=200&height=200" group-title="AUTONOMICOS",Pequeradio TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241415
+#EXTINF:-1 tvg-name="Cartoon Network Latino" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="AUTONOMICOS",Cartoon Network Latino
+http://kristoteve.sportsontheweb.net/botijo/?c=241416
+#EXTINF:-1 tvg-name="Cartoon Network Latino" tvg-logo="https://graph.facebook.com/cartoonnetwork.spain/picture?width=200&height=200" group-title="AUTONOMICOS",Cartoon Network Latino
+http://kristoteve.sportsontheweb.net/botijo/?c=241417
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241418
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241419
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241420
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241421
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241422
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241423
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241424
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241425
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241426
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241427
+#EXTINF:-1 tvg-name="+24" tvg-logo="https://img.rtve.es/imagenes/multisenal-24/1361962728583.png" group-title="AUTONOMICOS",+24
+http://kristoteve.sportsontheweb.net/botijo/?c=241428
+#EXTINF:-1 tvg-name="+tdp" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="AUTONOMICOS",+tdp
+http://kristoteve.sportsontheweb.net/botijo/?c=241429
+#EXTINF:-1 tvg-name="+tdp" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="AUTONOMICOS",+tdp
+http://kristoteve.sportsontheweb.net/botijo/?c=241430
+#EXTINF:-1 tvg-name="+tdp" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="AUTONOMICOS",+tdp
+http://kristoteve.sportsontheweb.net/botijo/?c=241431
+#EXTINF:-1 tvg-name="+tdp" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="AUTONOMICOS",+tdp
+http://kristoteve.sportsontheweb.net/botijo/?c=241432
+#EXTINF:-1 tvg-name="+tdp" tvg-logo="https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200" group-title="AUTONOMICOS",+tdp
+http://kristoteve.sportsontheweb.net/botijo/?c=241433
+#EXTINF:-1 tvg-name="Canal Parlamento" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Parlamento
+http://kristoteve.sportsontheweb.net/botijo/?c=241434
+#EXTINF:-1 tvg-name="Congreso de los Diputados" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="AUTONOMICOS",Congreso de los Diputados
+http://kristoteve.sportsontheweb.net/botijo/?c=241435
+#EXTINF:-1 tvg-name="Congreso de los Diputados" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="AUTONOMICOS",Congreso de los Diputados
+http://kristoteve.sportsontheweb.net/botijo/?c=241436
+#EXTINF:-1 tvg-name="Congreso de los Diputados" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="AUTONOMICOS",Congreso de los Diputados
+http://kristoteve.sportsontheweb.net/botijo/?c=241437
+#EXTINF:-1 tvg-name="Congreso de los Diputados" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="AUTONOMICOS",Congreso de los Diputados
+http://kristoteve.sportsontheweb.net/botijo/?c=241438
+#EXTINF:-1 tvg-name="Congreso de los Diputados" tvg-logo="https://graph.facebook.com/CongresodelosDiputados/picture?width=200&height=200" group-title="AUTONOMICOS",Congreso de los Diputados
+http://kristoteve.sportsontheweb.net/botijo/?c=241439
+#EXTINF:-1 tvg-name="La Moncloa (Presidente)" tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="AUTONOMICOS",La Moncloa (Presidente)
+http://kristoteve.sportsontheweb.net/botijo/?c=241440
+#EXTINF:-1 tvg-name="La Moncloa (Ministros)" tvg-logo="https://graph.facebook.com/PalaciodelaMoncloa/picture?width=200&height=200" group-title="AUTONOMICOS",La Moncloa (Ministros)
+http://kristoteve.sportsontheweb.net/botijo/?c=241441
+#EXTINF:-1 tvg-name="Radio Nacional" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" group-title="AUTONOMICOS",Radio Nacional
+http://kristoteve.sportsontheweb.net/botijo/?c=241442
+#EXTINF:-1 tvg-name="Radio 3" tvg-logo="https://graph.facebook.com/radio3/picture?width=200&height=200" group-title="AUTONOMICOS",Radio 3
+http://kristoteve.sportsontheweb.net/botijo/?c=241443
+#EXTINF:-1 tvg-name="Onda Cero" tvg-logo="https://graph.facebook.com/ondacero/picture?width=200&height=200" group-title="AUTONOMICOS",Onda Cero
+http://kristoteve.sportsontheweb.net/botijo/?c=241444
+#EXTINF:-1 tvg-name="Del 40 al 1" tvg-logo="https://graph.facebook.com/del40al1/picture?width=200&height=200" group-title="AUTONOMICOS",Del 40 al 1
+http://kristoteve.sportsontheweb.net/botijo/?c=241445
+#EXTINF:-1 tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Sur Andalucía
+http://kristoteve.sportsontheweb.net/botijo/?c=241446
+#EXTINF:-1 tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Sur Andalucía
+http://kristoteve.sportsontheweb.net/botijo/?c=241447
+#EXTINF:-1 tvg-name="Canal Sur 2 Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Sur 2 Andalucía
+http://kristoteve.sportsontheweb.net/botijo/?c=241448
+#EXTINF:-1 tvg-name="Canal Sur 2 Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Sur 2 Andalucía
+http://kristoteve.sportsontheweb.net/botijo/?c=241449
+#EXTINF:-1 tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="AUTONOMICOS",101TV Málaga
+http://kristoteve.sportsontheweb.net/botijo/?c=241450
+#EXTINF:-1 tvg-name="Mijas 3.40 TV" tvg-logo="https://graph.facebook.com/MijasComunicacion/picture?width=200&height=200" group-title="AUTONOMICOS",Mijas 3.40 TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241451
+#EXTINF:-1 tvg-name="Onda Cádiz" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="AUTONOMICOS",Onda Cádiz
+http://kristoteve.sportsontheweb.net/botijo/?c=241452
+#EXTINF:-1 tvg-name="M95 Marbella" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="AUTONOMICOS",M95 Marbella
+http://kristoteve.sportsontheweb.net/botijo/?c=241453
+#EXTINF:-1 tvg-name="Huelva TV" tvg-logo="https://graph.facebook.com/Huelvatv/picture?width=200&height=200" group-title="AUTONOMICOS",Huelva TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241454
+#EXTINF:-1 tvg-name="Canal Sierra de Cádiz HD" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Sierra de Cádiz HD
+http://kristoteve.sportsontheweb.net/botijo/?c=241455
+#EXTINF:-1 tvg-name="Canal Sierra de Cádiz HD" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Sierra de Cádiz HD
+http://kristoteve.sportsontheweb.net/botijo/?c=241456
+#EXTINF:-1 tvg-name="Canal Sierra de Cádiz SD" tvg-logo="https://graph.facebook.com/canalsierradecadiz/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Sierra de Cádiz SD
+http://kristoteve.sportsontheweb.net/botijo/?c=241457
+#EXTINF:-1 tvg-name="Canal 45 TV" tvg-logo="https://graph.facebook.com/canal45television/picture?width=200&height=200" group-title="AUTONOMICOS",Canal 45 TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241458
+#EXTINF:-1 tvg-name="PTV Málaga" tvg-logo="https://graph.facebook.com/PTVMalaga/picture?width=200&height=200" group-title="AUTONOMICOS",PTV Málaga
+http://kristoteve.sportsontheweb.net/botijo/?c=241459
+#EXTINF:-1 tvg-name="Córdoba TV" tvg-logo="https://graph.facebook.com/cordobatvonline/picture?width=200&height=200" group-title="AUTONOMICOS",Córdoba TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241460
+#EXTINF:-1 tvg-name="Costa Noroeste TV" tvg-logo="https://graph.facebook.com/Costanoroestetv/picture?width=200&height=200" group-title="AUTONOMICOS",Costa Noroeste TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241461
+#EXTINF:-1 tvg-name="Teleonuba" tvg-logo="https://graph.facebook.com/Teleonuba/picture?width=200&height=200" group-title="AUTONOMICOS",Teleonuba
+http://kristoteve.sportsontheweb.net/botijo/?c=241462
+#EXTINF:-1 tvg-name="Condavisión" tvg-logo="https://graph.facebook.com/condavision/picture?width=200&height=200" group-title="AUTONOMICOS",Condavisión
+http://kristoteve.sportsontheweb.net/botijo/?c=241463
+#EXTINF:-1 tvg-name="CanalCosta" tvg-logo="https://graph.facebook.com/canalcosta/picture?width=200&height=200" group-title="AUTONOMICOS",CanalCosta
+http://kristoteve.sportsontheweb.net/botijo/?c=241464
+#EXTINF:-1 tvg-name="Interalmería TV" tvg-logo="https://graph.facebook.com/Interalmeriatv/picture?width=200&height=200" group-title="AUTONOMICOS",Interalmería TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241465
+#EXTINF:-1 tvg-name="Tuya La Janda TV" tvg-logo="https://graph.facebook.com/tuyalajandatv/picture?width=200&height=200" group-title="AUTONOMICOS",Tuya La Janda TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241466
+#EXTINF:-1 tvg-name="TV Centro Andalucía" tvg-logo="https://graph.facebook.com/TVCentroAndalucia/picture?width=200&height=200" group-title="AUTONOMICOS",TV Centro Andalucía
+http://kristoteve.sportsontheweb.net/botijo/?c=241467
+#EXTINF:-1 tvg-name="Canal San Roque" tvg-logo="https://graph.facebook.com/multimedia.sanroque/picture?width=200&height=200" group-title="AUTONOMICOS",Canal San Roque
+http://kristoteve.sportsontheweb.net/botijo/?c=241468
+#EXTINF:-1 tvg-name="Onda Algeciras TV" tvg-logo="https://graph.facebook.com/ondaalgecirastv/picture?width=200&height=200" group-title="AUTONOMICOS",Onda Algeciras TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241469
+#EXTINF:-1 tvg-name="Estepona TV" tvg-logo="https://graph.facebook.com/esteponatelevision/picture?width=200&height=200" group-title="AUTONOMICOS",Estepona TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241470
+#EXTINF:-1 tvg-name="Lebrija TV" tvg-logo="https://graph.facebook.com/lebrijatelevision/picture?width=200&height=200" group-title="AUTONOMICOS",Lebrija TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241471
+#EXTINF:-1 tvg-name="Canal Doñana" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniAZB2q-vXPojR8-s48qBkScsAsVmJBpZSs6ZkMwA=s200" group-title="AUTONOMICOS",Canal Doñana
+http://kristoteve.sportsontheweb.net/botijo/?c=241472
+#EXTINF:-1 tvg-name="PTV Linares" tvg-logo="https://graph.facebook.com/tvlinares/picture?width=200&height=200" group-title="AUTONOMICOS",PTV Linares
+http://kristoteve.sportsontheweb.net/botijo/?c=241473
+#EXTINF:-1 tvg-name="Marbella TV" tvg-logo="https://graph.facebook.com/RTVMarbella/picture?width=200&height=200" group-title="AUTONOMICOS",Marbella TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241474
+#EXTINF:-1 tvg-name="Torrevisión" tvg-logo="https://graph.facebook.com/torremolinostv/picture?width=200&height=200" group-title="AUTONOMICOS",Torrevisión
+http://kristoteve.sportsontheweb.net/botijo/?c=241475
+#EXTINF:-1 tvg-name="Telemotril" tvg-logo="https://graph.facebook.com/telemotriltv/picture?width=200&height=200" group-title="AUTONOMICOS",Telemotril
+http://kristoteve.sportsontheweb.net/botijo/?c=241476
+#EXTINF:-1 tvg-name="Diez TV" tvg-logo="https://graph.facebook.com/dieztv/picture?width=200&height=200" group-title="AUTONOMICOS",Diez TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241477
+#EXTINF:-1 tvg-name="CostadelSol TV" tvg-logo="https://graph.facebook.com/costadelsoltv/picture?width=200&height=200" group-title="AUTONOMICOS",CostadelSol TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241478
+#EXTINF:-1 tvg-name="Bailén TV" tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200" group-title="AUTONOMICOS",Bailén TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241479
+#EXTINF:-1 tvg-name="Bailén TV" tvg-logo="https://graph.facebook.com/BailenTv/picture?width=200&height=200" group-title="AUTONOMICOS",Bailén TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241480
+#EXTINF:-1 tvg-name="101 TV Antequera" tvg-logo="https://graph.facebook.com/101tvAntequera/picture?width=200&height=200" group-title="AUTONOMICOS",101 TV Antequera
+http://kristoteve.sportsontheweb.net/botijo/?c=241481
+#EXTINF:-1 tvg-name="8TV Jerez" tvg-logo="https://graph.facebook.com/8TvJerez/picture?width=200&height=200" group-title="AUTONOMICOS",8TV Jerez
+http://kristoteve.sportsontheweb.net/botijo/?c=241482
+#EXTINF:-1 tvg-name="Sal TV" tvg-logo="https://graph.facebook.com/SalTelevision/picture?width=200&height=200" group-title="AUTONOMICOS",Sal TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241483
+#EXTINF:-1 tvg-name="9 la Loma TV" tvg-logo="https://graph.facebook.com/9laloma/picture?width=200&height=200" group-title="AUTONOMICOS",9 la Loma TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241484
+#EXTINF:-1 tvg-name="Vivamóvil TV" tvg-logo="https://graph.facebook.com/VivamovilTV/picture?width=200&height=200" group-title="AUTONOMICOS",Vivamóvil TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241485
+#EXTINF:-1 tvg-name="Canal Málaga" tvg-logo="https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Málaga
+http://kristoteve.sportsontheweb.net/botijo/?c=241486
+#EXTINF:-1 tvg-name="101 TV Axarquía" tvg-logo="https://graph.facebook.com/101tvaxarquia/picture?width=200&height=200" group-title="AUTONOMICOS",101 TV Axarquía
+http://kristoteve.sportsontheweb.net/botijo/?c=241487
+#EXTINF:-1 tvg-name="PTV Granada" tvg-logo="https://graph.facebook.com/PTVGranada/picture?width=200&height=200" group-title="AUTONOMICOS",PTV Granada
+http://kristoteve.sportsontheweb.net/botijo/?c=241488
+#EXTINF:-1 tvg-name="TeleGilena" tvg-logo="https://graph.facebook.com/tele.gilena/picture?width=200&height=200" group-title="AUTONOMICOS",TeleGilena
+http://kristoteve.sportsontheweb.net/botijo/?c=241489
+#EXTINF:-1 tvg-name="Fuengirola TV" tvg-logo="https://graph.facebook.com/fuengirolatvoficial/picture?width=200&height=200" group-title="AUTONOMICOS",Fuengirola TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241490
+#EXTINF:-1 tvg-name="Islatel" tvg-logo="https://graph.facebook.com/101523104600501/picture?width=200&height=200" group-title="AUTONOMICOS",Islatel
+http://kristoteve.sportsontheweb.net/botijo/?c=241491
+#EXTINF:-1 tvg-name="PTV Sevilla" tvg-logo="https://graph.facebook.com/SevillaPTV/picture?width=200&height=200" group-title="AUTONOMICOS",PTV Sevilla
+http://kristoteve.sportsontheweb.net/botijo/?c=241492
+#EXTINF:-1 tvg-name="PTV Córdoba" tvg-logo="https://graph.facebook.com/PTVCOR/picture?width=200&height=200" group-title="AUTONOMICOS",PTV Córdoba
+http://kristoteve.sportsontheweb.net/botijo/?c=241493
+#EXTINF:-1 tvg-name="Canal Coín" tvg-logo="https://graph.facebook.com/106272064368271/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Coín
+http://kristoteve.sportsontheweb.net/botijo/?c=241494
+#EXTINF:-1 tvg-name="TVM Córdoba" tvg-logo="https://graph.facebook.com/TVM.Cordoba/picture?width=200&height=200" group-title="AUTONOMICOS",TVM Córdoba
+http://kristoteve.sportsontheweb.net/botijo/?c=241495
+#EXTINF:-1 tvg-name="8 TV Cádiz" tvg-logo="https://graph.facebook.com/8tvcadiz/picture?width=200&height=200" group-title="AUTONOMICOS",8 TV Cádiz
+http://kristoteve.sportsontheweb.net/botijo/?c=241496
+#EXTINF:-1 tvg-name="Cancionero TV" tvg-logo="https://www.cancionero.es/portal/images/imagesweb/LogoTV_Trans.png" group-title="AUTONOMICOS",Cancionero TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241497
+#EXTINF:-1 tvg-name="Trebujena TV" tvg-logo="https://bopiweb.com/imagenes/2580/tomo.1.M-3503739-3.jpg" group-title="AUTONOMICOS",Trebujena TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241498
+#EXTINF:-1 tvg-name="La Fábrica TV" tvg-logo="https://graph.facebook.com/LaFabricaTV/picture?width=200&height=200" group-title="AUTONOMICOS",La Fábrica TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241499
+#EXTINF:-1 tvg-name="Onda Cádiz 24h" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="AUTONOMICOS",Onda Cádiz 24h
+http://kristoteve.sportsontheweb.net/botijo/?c=241500
+#EXTINF:-1 tvg-name="Parlamento de Andalucía" tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" group-title="AUTONOMICOS",Parlamento de Andalucía
+http://kristoteve.sportsontheweb.net/botijo/?c=241501
+#EXTINF:-1 tvg-name="Parlamento de Andalucía" tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" group-title="AUTONOMICOS",Parlamento de Andalucía
+http://kristoteve.sportsontheweb.net/botijo/?c=241502
+#EXTINF:-1 tvg-name="Parlamento de Andalucía" tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" group-title="AUTONOMICOS",Parlamento de Andalucía
+http://kristoteve.sportsontheweb.net/botijo/?c=241503
+#EXTINF:-1 tvg-name="Parlamento de Andalucía" tvg-logo="https://graph.facebook.com/parlamentodeandalucia.es/picture?width=200&height=200" group-title="AUTONOMICOS",Parlamento de Andalucía
+http://kristoteve.sportsontheweb.net/botijo/?c=241504
+#EXTINF:-1 tvg-name="Aragón TV" tvg-logo="https://graph.facebook.com/AragonTV/picture?width=200&height=200" group-title="AUTONOMICOS",Aragón TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241505
+#EXTINF:-1 tvg-name="Aragón Noticias" tvg-logo="https://graph.facebook.com/AragonNoticias/picture?width=200&height=200" group-title="AUTONOMICOS",Aragón Noticias
+http://kristoteve.sportsontheweb.net/botijo/?c=241506
+#EXTINF:-1 tvg-name="Canal 25 Barbastro TV" tvg-logo="https://graph.facebook.com/tvbarbastro/picture?width=200&height=200" group-title="AUTONOMICOS",Canal 25 Barbastro TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241507
+#EXTINF:-1 tvg-name="La 1 Canarias" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="AUTONOMICOS",La 1 Canarias
+http://kristoteve.sportsontheweb.net/botijo/?c=241508
+#EXTINF:-1 tvg-name="La 2 Canarias" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="AUTONOMICOS",La 2 Canarias
+http://kristoteve.sportsontheweb.net/botijo/?c=241509
+#EXTINF:-1 tvg-name="24h Canarias" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="AUTONOMICOS",24h Canarias
+http://kristoteve.sportsontheweb.net/botijo/?c=241510
+#EXTINF:-1 tvg-name="Mírame TV" tvg-logo="https://graph.facebook.com/MirameTVCanarias/picture?width=200&height=200" group-title="AUTONOMICOS",Mírame TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241511
+#EXTINF:-1 tvg-name="Canal 4 Tenerife" tvg-logo="https://graph.facebook.com/CANAL4TENERIFE/picture?width=200&height=200" group-title="AUTONOMICOS",Canal 4 Tenerife
+http://kristoteve.sportsontheweb.net/botijo/?c=241512
+#EXTINF:-1 tvg-name="Biosfera TV" tvg-logo="https://graph.facebook.com/biosferamedia/picture?width=200&height=200" group-title="AUTONOMICOS",Biosfera TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241513
+#EXTINF:-1 tvg-name="NORTEvisión" tvg-logo="https://graph.facebook.com/aljoamyvisual/picture?width=200&height=200" group-title="AUTONOMICOS",NORTEvisión
+http://kristoteve.sportsontheweb.net/botijo/?c=241514
+#EXTINF:-1 tvg-name="RTV Mogán" tvg-logo="https://graph.facebook.com/radiotelevisionmogan/picture?width=200&height=200" group-title="AUTONOMICOS",RTV Mogán
+http://kristoteve.sportsontheweb.net/botijo/?c=241515
+#EXTINF:-1 tvg-name="Lancelot TV" tvg-logo="https://graph.facebook.com/288850935035196/picture?width=200&height=200" group-title="AUTONOMICOS",Lancelot TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241516
+#EXTINF:-1 tvg-name="Este Canal TV" tvg-logo="https://graph.facebook.com/estecanaltv/picture?width=200&height=200" group-title="AUTONOMICOS",Este Canal TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241517
+#EXTINF:-1 tvg-name="Noroeste TV" tvg-logo="https://graph.facebook.com/noroestetvladesiempre/picture?width=200&height=200" group-title="AUTONOMICOS",Noroeste TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241518
+#EXTINF:-1 tvg-name="Afortunadas TV" tvg-logo="https://graph.facebook.com/afortunadastv/picture?width=200&height=200" group-title="AUTONOMICOS",Afortunadas TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241519
+#EXTINF:-1 tvg-name="Popular TV Cantabria" tvg-logo="https://graph.facebook.com/populartvcantabria/picture?width=200&height=200" group-title="AUTONOMICOS",Popular TV Cantabria
+http://kristoteve.sportsontheweb.net/botijo/?c=241520
+#EXTINF:-1 tvg-name="Castilla-La Mancha Media" tvg-logo="https://graph.facebook.com/CMMediaes/picture?width=200&height=200" group-title="AUTONOMICOS",Castilla-La Mancha Media
+http://kristoteve.sportsontheweb.net/botijo/?c=241521
+#EXTINF:-1 tvg-name="TV Hellín" tvg-logo="https://graph.facebook.com/tvhellin/picture?width=200&height=200" group-title="AUTONOMICOS",TV Hellín
+http://kristoteve.sportsontheweb.net/botijo/?c=241522
+#EXTINF:-1 tvg-name="Guada TV Media" tvg-logo="https://graph.facebook.com/GuadaTV.TV/picture?width=200&height=200" group-title="AUTONOMICOS",Guada TV Media
+http://kristoteve.sportsontheweb.net/botijo/?c=241523
+#EXTINF:-1 tvg-name="Visión 6 TV" tvg-logo="https://graph.facebook.com/104927246235553/picture?width=200&height=200" group-title="AUTONOMICOS",Visión 6 TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241524
+#EXTINF:-1 tvg-name="Imás TV" tvg-logo="https://graph.facebook.com/television.imas/picture?width=200&height=200" group-title="AUTONOMICOS",Imás TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241525
+#EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="AUTONOMICOS",Alcarria TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241526
+#EXTINF:-1 tvg-name="Alcarria TV" tvg-logo="https://graph.facebook.com/AlcarriaTV/picture?width=200&height=200" group-title="AUTONOMICOS",Alcarria TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241527
+#EXTINF:-1 tvg-name="Manzanares10TV" tvg-logo="https://graph.facebook.com/Manzanares10TV/picture?width=200&height=200" group-title="AUTONOMICOS",Manzanares10TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241528
+#EXTINF:-1 tvg-name="Canal 4 Mancha Centro" tvg-logo="https://graph.facebook.com/canal4villarrobledo/picture?width=200&height=200" group-title="AUTONOMICOS",Canal 4 Mancha Centro
+http://kristoteve.sportsontheweb.net/botijo/?c=241529
+#EXTINF:-1 tvg-name="TeleToledo" tvg-logo="https://graph.facebook.com/Teletoledo/picture?width=200&height=200" group-title="AUTONOMICOS",TeleToledo
+http://kristoteve.sportsontheweb.net/botijo/?c=241530
+#EXTINF:-1 tvg-name="Canal 2000" tvg-logo="https://graph.facebook.com/canal2000/picture?width=200&height=200" group-title="AUTONOMICOS",Canal 2000
+http://kristoteve.sportsontheweb.net/botijo/?c=241531
+#EXTINF:-1 tvg-name="La 7" tvg-logo="https://graph.facebook.com/cyltv/picture?width=200&height=200" group-title="AUTONOMICOS",La 7
+http://kristoteve.sportsontheweb.net/botijo/?c=241532
+#EXTINF:-1 tvg-name="La 8 Avila" tvg-logo="https://pbs.twimg.com/profile_images/1364545643319087104/7qp4nrtS_200x200.jpg" group-title="AUTONOMICOS",La 8 Avila
+http://kristoteve.sportsontheweb.net/botijo/?c=241533
+#EXTINF:-1 tvg-name="La 8 Bierzo" tvg-logo="https://graph.facebook.com/La8Bierzo/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Bierzo
+http://kristoteve.sportsontheweb.net/botijo/?c=241534
+#EXTINF:-1 tvg-name="La 8 Burgos" tvg-logo="https://graph.facebook.com/La8Burgos/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Burgos
+http://kristoteve.sportsontheweb.net/botijo/?c=241535
+#EXTINF:-1 tvg-name="La 8 Leon" tvg-logo="https://pbs.twimg.com/profile_images/1367754156711288839/c01QAS89_200x200.jpg" group-title="AUTONOMICOS",La 8 Leon
+http://kristoteve.sportsontheweb.net/botijo/?c=241536
+#EXTINF:-1 tvg-name="La 8 Palencia" tvg-logo="https://graph.facebook.com/La8Palencia/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Palencia
+http://kristoteve.sportsontheweb.net/botijo/?c=241537
+#EXTINF:-1 tvg-name="La 8 Salamanca" tvg-logo="https://graph.facebook.com/la8salamanca/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Salamanca
+http://kristoteve.sportsontheweb.net/botijo/?c=241538
+#EXTINF:-1 tvg-name="La 8 Segovia" tvg-logo="https://graph.facebook.com/la8segovia/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Segovia
+http://kristoteve.sportsontheweb.net/botijo/?c=241539
+#EXTINF:-1 tvg-name="La 8 Soria" tvg-logo="https://graph.facebook.com/La8Soria/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Soria
+http://kristoteve.sportsontheweb.net/botijo/?c=241540
+#EXTINF:-1 tvg-name="La 8 Valladolid" tvg-logo="https://graph.facebook.com/la8valladolid/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Valladolid
+http://kristoteve.sportsontheweb.net/botijo/?c=241541
+#EXTINF:-1 tvg-name="La 8 Zamora" tvg-logo="https://graph.facebook.com/la8zamora/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Zamora
+http://kristoteve.sportsontheweb.net/botijo/?c=241542
+#EXTINF:-1 tvg-name="TV Benavente" tvg-logo="https://graph.facebook.com/benaventetv/picture?width=200&height=200" group-title="AUTONOMICOS",TV Benavente
+http://kristoteve.sportsontheweb.net/botijo/?c=241543
+#EXTINF:-1 tvg-name="TV Aranda" tvg-logo="https://graph.facebook.com/575943555801687/picture?width=200&height=200" group-title="AUTONOMICOS",TV Aranda
+http://kristoteve.sportsontheweb.net/botijo/?c=241544
+#EXTINF:-1 tvg-name="Junta Castilla y León" tvg-logo="https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200" group-title="AUTONOMICOS",Junta Castilla y León
+http://kristoteve.sportsontheweb.net/botijo/?c=241545
+#EXTINF:-1 tvg-name="TV3 GEO CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="AUTONOMICOS",TV3 GEO CAT
+http://kristoteve.sportsontheweb.net/botijo/?c=241546
+#EXTINF:-1 tvg-name="TV3 GEO" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="AUTONOMICOS",TV3 GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241547
+#EXTINF:-1 tvg-name="324" tvg-logo="https://graph.facebook.com/324cat/picture?width=200&height=200" group-title="AUTONOMICOS",324
+http://kristoteve.sportsontheweb.net/botijo/?c=241548
+#EXTINF:-1 tvg-name="33 GEO CAT" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="AUTONOMICOS",33 GEO CAT
+http://kristoteve.sportsontheweb.net/botijo/?c=241549
+#EXTINF:-1 tvg-name="33 GEO" tvg-logo="https://graph.facebook.com/Canal33/picture?width=200&height=200" group-title="AUTONOMICOS",33 GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241550
+#EXTINF:-1 tvg-name="Super3 GEO CAT" tvg-logo="https://graph.facebook.com/clubsuper3/picture?width=200&height=200" group-title="AUTONOMICOS",Super3 GEO CAT
+http://kristoteve.sportsontheweb.net/botijo/?c=241551
+#EXTINF:-1 tvg-name="Super3 GEO" tvg-logo="https://graph.facebook.com/clubsuper3/picture?width=200&height=200" group-title="AUTONOMICOS",Super3 GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241552
+#EXTINF:-1 tvg-name="CCMA Exclusiu 1 GEO CAT" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 1 GEO CAT
+http://kristoteve.sportsontheweb.net/botijo/?c=241553
+#EXTINF:-1 tvg-name="CCMA Exclusiu 1 GEO" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 1 GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241554
+#EXTINF:-1 tvg-name="CCMA Exclusiu 2 GEO CAT" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 2 GEO CAT
+http://kristoteve.sportsontheweb.net/botijo/?c=241555
+#EXTINF:-1 tvg-name="CCMA Exclusiu 2 GEO" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 2 GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241556
+#EXTINF:-1 tvg-name="CCMA Exclusiu 3 GEO CAT" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 3 GEO CAT
+http://kristoteve.sportsontheweb.net/botijo/?c=241557
+#EXTINF:-1 tvg-name="CCMA Exclusiu 3 GEO" tvg-logo="https://pbs.twimg.com/profile_images/899576410607693825/BLjUpQzO_200x200.jpg" group-title="AUTONOMICOS",CCMA Exclusiu 3 GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241558
+#EXTINF:-1 tvg-name="La 1 Catalunya" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="AUTONOMICOS",La 1 Catalunya
+http://kristoteve.sportsontheweb.net/botijo/?c=241559
+#EXTINF:-1 tvg-name="La 1 Catalunya" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="AUTONOMICOS",La 1 Catalunya
+http://kristoteve.sportsontheweb.net/botijo/?c=241560
+#EXTINF:-1 tvg-name="La 2 Catalunya" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="AUTONOMICOS",La 2 Catalunya
+http://kristoteve.sportsontheweb.net/botijo/?c=241561
+#EXTINF:-1 tvg-name="La 2 Catalunya" tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="AUTONOMICOS",La 2 Catalunya
+http://kristoteve.sportsontheweb.net/botijo/?c=241562
+#EXTINF:-1 tvg-name="24h Catalunya" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="AUTONOMICOS",24h Catalunya
+http://kristoteve.sportsontheweb.net/botijo/?c=241563
+#EXTINF:-1 tvg-name="Bon Dia TV" tvg-logo="https://i2.wp.com/blocs.mesvilaweb.cat/wp-content/uploads/sites/1858/2018/11/BONDIA.png" group-title="AUTONOMICOS",Bon Dia TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241564
+#EXTINF:-1 tvg-name="betevé" tvg-logo="https://graph.facebook.com/betevecat/picture?width=200&height=200" group-title="AUTONOMICOS",betevé
+http://kristoteve.sportsontheweb.net/botijo/?c=241565
+#EXTINF:-1 tvg-name="Fibracat TV" tvg-logo="https://graph.facebook.com/fibracat/picture?width=200&height=200" group-title="AUTONOMICOS",Fibracat TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241566
+#EXTINF:-1 tvg-name="Canal 4 Televisió" tvg-logo="http://grup4.com/wp-content/uploads/2016/07/2-300x300.png" group-title="AUTONOMICOS",Canal 4 Televisió
+http://kristoteve.sportsontheweb.net/botijo/?c=241567
+#EXTINF:-1 tvg-name="8 TV" tvg-logo="https://graph.facebook.com/8tvcat/picture?width=200&height=200" group-title="AUTONOMICOS",8 TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241568
+#EXTINF:-1 tvg-name="TV de Girona" tvg-logo="https://graph.facebook.com/tvgirona/picture?width=200&height=200" group-title="AUTONOMICOS",TV de Girona
+http://kristoteve.sportsontheweb.net/botijo/?c=241613
+#EXTINF:-1 tvg-name="Piera TV" tvg-logo="https://yt3.ggpht.com/WtsIUXtvmo0QQFYhj9qbxpttucZF0ZElx8oju9r7ISrKfn9GHBuRR7s9JN4YRnzvbLr6GiUtWQ=s200" group-title="AUTONOMICOS",Piera TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241614
+#EXTINF:-1 tvg-name="25 TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSiBg6zgB4gKEo1fpTT9-mM7ORD7o2bQ74ZNB-1=s200" group-title="AUTONOMICOS",25 TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241629
+#EXTINF:-1 tvg-name="RTVCE" tvg-logo="https://graph.facebook.com/RTVCE/picture?width=200&height=200" group-title="AUTONOMICOS",RTVCE
+http://kristoteve.sportsontheweb.net/botijo/?c=241630
+#EXTINF:-1 tvg-name="Telemadrid" tvg-logo="https://graph.facebook.com/telemadrid/picture?width=200&height=200" group-title="AUTONOMICOS",Telemadrid
+http://kristoteve.sportsontheweb.net/botijo/?c=241631
+#EXTINF:-1 tvg-name="LaOtra" tvg-logo="https://pbs.twimg.com/profile_images/1279727978268839938/jSZUiboT_200x200.jpg" group-title="AUTONOMICOS",LaOtra
+http://kristoteve.sportsontheweb.net/botijo/?c=241632
+#EXTINF:-1 tvg-name="Webcam OndaMadrid" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="AUTONOMICOS",Webcam OndaMadrid
+http://kristoteve.sportsontheweb.net/botijo/?c=241633
+#EXTINF:-1 tvg-name="Webcam OndaMadrid" tvg-logo="https://graph.facebook.com/ondamadridradio/picture?width=200&height=200" group-title="AUTONOMICOS",Webcam OndaMadrid
+http://kristoteve.sportsontheweb.net/botijo/?c=241634
+#EXTINF:-1 tvg-name="Teleganés" tvg-logo="https://graph.facebook.com/1423419417957760/picture?width=200&height=200" group-title="AUTONOMICOS",Teleganés
+http://kristoteve.sportsontheweb.net/botijo/?c=241635
+#EXTINF:-1 tvg-name="Distrito TV" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="AUTONOMICOS",Distrito TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241636
+#EXTINF:-1 tvg-name="C33 Madrid" tvg-logo="https://graph.facebook.com/Canal33Madrid/picture?width=200&height=200" group-title="AUTONOMICOS",C33 Madrid
+http://kristoteve.sportsontheweb.net/botijo/?c=241637
+#EXTINF:-1 tvg-name="GCM TV" tvg-logo="https://graph.facebook.com/100146922067408/picture?width=200&height=200" group-title="AUTONOMICOS",GCM TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241638
+#EXTINF:-1 tvg-name="Nesting TV" tvg-logo="https://graph.facebook.com/nestingtv/picture?width=200&height=200" group-title="AUTONOMICOS",Nesting TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241639
+#EXTINF:-1 tvg-name="IBEROAMERICA TV" tvg-logo="https://graph.facebook.com/iberoamericatv/picture?width=200&height=200" group-title="AUTONOMICOS",IBEROAMERICA TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241640
+#EXTINF:-1 tvg-name="Navarra TV HD" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="AUTONOMICOS",Navarra TV HD
+http://kristoteve.sportsontheweb.net/botijo/?c=241641
+#EXTINF:-1 tvg-name="Navarra TV SD" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="AUTONOMICOS",Navarra TV SD
+http://kristoteve.sportsontheweb.net/botijo/?c=241642
+#EXTINF:-1 tvg-name="TeleRibera" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_200x200.jpg" group-title="AUTONOMICOS",TeleRibera
+http://kristoteve.sportsontheweb.net/botijo/?c=241643
+#EXTINF:-1 tvg-name="Xaloa Telebista" tvg-logo="https://graph.facebook.com/xaloatb/picture?width=200&height=200" group-title="AUTONOMICOS",Xaloa Telebista
+http://kristoteve.sportsontheweb.net/botijo/?c=241644
+#EXTINF:-1 tvg-name="Parlamento de Navarra" tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="AUTONOMICOS",Parlamento de Navarra
+http://kristoteve.sportsontheweb.net/botijo/?c=241645
+#EXTINF:-1 tvg-name="Parlamento de Navarra" tvg-logo="https://pbs.twimg.com/profile_images/1517046445030924289/r4OIw84T_200x200.jpg" group-title="AUTONOMICOS",Parlamento de Navarra
+http://kristoteve.sportsontheweb.net/botijo/?c=241646
+#EXTINF:-1 tvg-name="À Punt" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=200&height=200" group-title="AUTONOMICOS",À Punt
+http://kristoteve.sportsontheweb.net/botijo/?c=241647
+#EXTINF:-1 tvg-name="7 TeleValencia" tvg-logo="https://pbs.twimg.com/profile_images/1398557359065157634/HnJZTLR-_200x200.jpg" group-title="AUTONOMICOS",7 TeleValencia
+http://kristoteve.sportsontheweb.net/botijo/?c=241648
+#EXTINF:-1 tvg-name="Intercomarcal TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="AUTONOMICOS",Intercomarcal TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241649
+#EXTINF:-1 tvg-name="Intercomarcal TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="AUTONOMICOS",Intercomarcal TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241650
+#EXTINF:-1 tvg-name="Intercomarcal TV" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="AUTONOMICOS",Intercomarcal TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241651
+#EXTINF:-1 tvg-name="Ribera TV" tvg-logo="https://graph.facebook.com/grup.televisio/picture?width=200&height=200" group-title="AUTONOMICOS",Ribera TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241652
+#EXTINF:-1 tvg-name="8 La Marina TV" tvg-logo="https://graph.facebook.com/8lamarinatelevision/picture?width=200&height=200" group-title="AUTONOMICOS",8 La Marina TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241653
+#EXTINF:-1 tvg-name="La 8 Mediterráneo" tvg-logo="https://graph.facebook.com/la8mediterraneo/picture?width=200&height=200" group-title="AUTONOMICOS",La 8 Mediterráneo
+http://kristoteve.sportsontheweb.net/botijo/?c=241654
+#EXTINF:-1 tvg-name="Alacantí TV" tvg-logo="https://graph.facebook.com/alacantitv/picture?width=200&height=200" group-title="AUTONOMICOS",Alacantí TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241655
+#EXTINF:-1 tvg-name="TV Artequatre" tvg-logo="https://graph.facebook.com/tvArtequatre/picture?width=200&height=200" group-title="AUTONOMICOS",TV Artequatre
+http://kristoteve.sportsontheweb.net/botijo/?c=241656
+#EXTINF:-1 tvg-name="12TV Alicante" tvg-logo="https://graph.facebook.com/12tv.es/picture?width=200&height=200" group-title="AUTONOMICOS",12TV Alicante
+http://kristoteve.sportsontheweb.net/botijo/?c=241657
+#EXTINF:-1 tvg-name="Levante TV" tvg-logo="https://graph.facebook.com/levantetv/picture?width=200&height=200" group-title="AUTONOMICOS",Levante TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241658
+#EXTINF:-1 tvg-name="TV Vega Baja" tvg-logo="https://graph.facebook.com/TVVegaBaja/picture?width=200&height=200" group-title="AUTONOMICOS",TV Vega Baja
+http://kristoteve.sportsontheweb.net/botijo/?c=241659
+#EXTINF:-1 tvg-name="TV 4 Vall de Uxó" tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=200&height=200" group-title="AUTONOMICOS",TV 4 Vall de Uxó
+http://kristoteve.sportsontheweb.net/botijo/?c=241660
+#EXTINF:-1 tvg-name="Burriana TV" tvg-logo="https://graph.facebook.com/burrianateve/picture?width=200&height=200" group-title="AUTONOMICOS",Burriana TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241661
+#EXTINF:-1 tvg-name="Distrito TV Valencia" tvg-logo="https://graph.facebook.com/2004860103163343/picture?width=200&height=200" group-title="AUTONOMICOS",Distrito TV Valencia
+http://kristoteve.sportsontheweb.net/botijo/?c=241662
+#EXTINF:-1 tvg-name="telesafor" tvg-logo="https://graph.facebook.com/Tele7Safor/picture?width=200&height=200" group-title="AUTONOMICOS",telesafor
+http://kristoteve.sportsontheweb.net/botijo/?c=241663
+#EXTINF:-1 tvg-name="Elche 7 TV" tvg-logo="https://graph.facebook.com/elche7hd/picture?width=200&height=200" group-title="AUTONOMICOS",Elche 7 TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241664
+#EXTINF:-1 tvg-name="Canal 56" tvg-logo="https://graph.facebook.com/canal56televisio/picture?width=200&height=200" group-title="AUTONOMICOS",Canal 56
+http://kristoteve.sportsontheweb.net/botijo/?c=241665
+#EXTINF:-1 tvg-name="Tevequatre TV" tvg-logo="https://graph.facebook.com/teve4televisio/picture?width=200&height=200" group-title="AUTONOMICOS",Tevequatre TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241666
+#EXTINF:-1 tvg-name="Maestrat TV" tvg-logo="https://graph.facebook.com/maestrat.tv/picture?width=200&height=200" group-title="AUTONOMICOS",Maestrat TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241667
+#EXTINF:-1 tvg-name="Univers TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQb35mWN9WQKdrbrrl30uG9PdY_du6DmbB_khSZdA=s200" group-title="AUTONOMICOS",Univers TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241668
+#EXTINF:-1 tvg-name="TV Almassora" tvg-logo="https://graph.facebook.com/tvalmassora/picture?width=200&height=200" group-title="AUTONOMICOS",TV Almassora
+http://kristoteve.sportsontheweb.net/botijo/?c=241669
+#EXTINF:-1 tvg-name="Onda 15 TV" tvg-logo="https://graph.facebook.com/Onda15Radio/picture?width=200&height=200" group-title="AUTONOMICOS",Onda 15 TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241670
+#EXTINF:-1 tvg-name="Canal 3 Biar" tvg-logo="https://graph.facebook.com/canal3biar/picture?width=200&height=200" group-title="AUTONOMICOS",Canal 3 Biar
+http://kristoteve.sportsontheweb.net/botijo/?c=241671
+#EXTINF:-1 tvg-name="Ràdio Bocairent TV" tvg-logo="https://graph.facebook.com/radiobocairent/picture?width=200&height=200" group-title="AUTONOMICOS",Ràdio Bocairent TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241672
+#EXTINF:-1 tvg-name="Punt 3 Vall Uixó" tvg-logo="https://graph.facebook.com/Punt3Television/picture?width=200&height=200" group-title="AUTONOMICOS",Punt 3 Vall Uixó
+http://kristoteve.sportsontheweb.net/botijo/?c=241673
+#EXTINF:-1 tvg-name="7NN Valencia" tvg-logo="https://pbs.twimg.com/profile_images/1438490162279981060/yL69CGN9_200x200.jpg" group-title="AUTONOMICOS",7NN Valencia
+http://kristoteve.sportsontheweb.net/botijo/?c=241674
+#EXTINF:-1 tvg-name="Ciudades Del Ocio TV" tvg-logo="https://graph.facebook.com/CiudadesDelOcioTV/picture?width=200&height=200" group-title="AUTONOMICOS",Ciudades Del Ocio TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241675
+#EXTINF:-1 tvg-name="Onda Valencia" tvg-logo="https://graph.facebook.com/ondavalenciatv/picture?width=200&height=200" group-title="AUTONOMICOS",Onda Valencia
+http://kristoteve.sportsontheweb.net/botijo/?c=241676
+#EXTINF:-1 tvg-name="Une Vinalopó" tvg-logo="https://graph.facebook.com/UneVinalopo/picture?width=200&height=200" group-title="AUTONOMICOS",Une Vinalopó
+http://kristoteve.sportsontheweb.net/botijo/?c=241677
+#EXTINF:-1 tvg-name="Corts Valencianes" tvg-logo="https://graph.facebook.com/cortsval/picture?width=200&height=200" group-title="AUTONOMICOS",Corts Valencianes
+http://kristoteve.sportsontheweb.net/botijo/?c=241678
+#EXTINF:-1 tvg-name="Canal Extremadura" tvg-logo="https://graph.facebook.com/CanalExtremadura/picture?width=200&height=200" group-title="AUTONOMICOS",Canal Extremadura
+http://kristoteve.sportsontheweb.net/botijo/?c=241679
+#EXTINF:-1 tvg-name="Zafra TV" tvg-logo="https://graph.facebook.com/ZFtelevision/picture?width=200&height=200" group-title="AUTONOMICOS",Zafra TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241680
+#EXTINF:-1 tvg-name="Cáceres Tevé" tvg-logo="https://graph.facebook.com/caceresteve/picture?width=200&height=200" group-title="AUTONOMICOS",Cáceres Tevé
+http://kristoteve.sportsontheweb.net/botijo/?c=241681
+#EXTINF:-1 tvg-name="TVG" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG
+http://kristoteve.sportsontheweb.net/botijo/?c=241682
+#EXTINF:-1 tvg-name="TVG 2" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG 2
+http://kristoteve.sportsontheweb.net/botijo/?c=241683
+#EXTINF:-1 tvg-name="TVG Xabarin" tvg-logo="https://graph.facebook.com/oxabarinclub/picture?width=200&height=200" group-title="AUTONOMICOS",TVG Xabarin
+http://kristoteve.sportsontheweb.net/botijo/?c=241684
+#EXTINF:-1 tvg-name="TVG Musigal" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG Musigal
+http://kristoteve.sportsontheweb.net/botijo/?c=241685
+#EXTINF:-1 tvg-name="TVG Cultura" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG Cultura
+http://kristoteve.sportsontheweb.net/botijo/?c=241686
+#EXTINF:-1 tvg-name="TVG Momentos G" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG Momentos G
+http://kristoteve.sportsontheweb.net/botijo/?c=241687
+#EXTINF:-1 tvg-name="TVG Eventos" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG Eventos
+http://kristoteve.sportsontheweb.net/botijo/?c=241688
+#EXTINF:-1 tvg-name="TVG Eventos" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG Eventos
+http://kristoteve.sportsontheweb.net/botijo/?c=241689
+#EXTINF:-1 tvg-name="TVG Eventos" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG Eventos
+http://kristoteve.sportsontheweb.net/botijo/?c=241690
+#EXTINF:-1 tvg-name="TVG Eventos" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG Eventos
+http://kristoteve.sportsontheweb.net/botijo/?c=241691
+#EXTINF:-1 tvg-name="TVG Eventos" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG Eventos
+http://kristoteve.sportsontheweb.net/botijo/?c=241692
+#EXTINF:-1 tvg-name="TV Ferrol" tvg-logo="https://graph.facebook.com/tvferrol/picture?width=200&height=200" group-title="AUTONOMICOS",TV Ferrol
+http://kristoteve.sportsontheweb.net/botijo/?c=241693
+#EXTINF:-1 tvg-name="TeleVigo" tvg-logo="https://graph.facebook.com/televigo/picture?width=200&height=200" group-title="AUTONOMICOS",TeleVigo
+http://kristoteve.sportsontheweb.net/botijo/?c=241694
+#EXTINF:-1 tvg-name="TEF" tvg-logo="https://graph.facebook.com/TEFTV/picture?width=200&height=200" group-title="AUTONOMICOS",TEF
+http://kristoteve.sportsontheweb.net/botijo/?c=241695
+#EXTINF:-1 tvg-name="TV Rioja" tvg-logo="https://graph.facebook.com/tvrtelevision/picture?width=200&height=200" group-title="AUTONOMICOS",TV Rioja
+http://kristoteve.sportsontheweb.net/botijo/?c=241696
+#EXTINF:-1 tvg-name="Parlamento de La Rioja" tvg-logo="https://graph.facebook.com/ParlamentodeLaRioja/picture?width=200&height=200" group-title="AUTONOMICOS",Parlamento de La Rioja
+http://kristoteve.sportsontheweb.net/botijo/?c=241697
+#EXTINF:-1 tvg-name="Melilla TV" tvg-logo="https://graph.facebook.com/TelevisionMelilla/picture?width=200&height=200" group-title="AUTONOMICOS",Melilla TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241698
+#EXTINF:-1 tvg-name="Popular TV Melilla" tvg-logo="https://graph.facebook.com/populartvml/picture?width=200&height=200" group-title="AUTONOMICOS",Popular TV Melilla
+http://kristoteve.sportsontheweb.net/botijo/?c=241699
+#EXTINF:-1 tvg-name="ETB 1" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="AUTONOMICOS",ETB 1
+http://kristoteve.sportsontheweb.net/botijo/?c=241700
+#EXTINF:-1 tvg-name="ETB 2" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="AUTONOMICOS",ETB 2
+http://kristoteve.sportsontheweb.net/botijo/?c=241701
+#EXTINF:-1 tvg-name="ETB Eventos 1" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="AUTONOMICOS",ETB Eventos 1
+http://kristoteve.sportsontheweb.net/botijo/?c=241702
+#EXTINF:-1 tvg-name="ETB Eventos 2 GEO" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="AUTONOMICOS",ETB Eventos 2 GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241703
+#EXTINF:-1 tvg-name="Hamaika TV" tvg-logo="https://graph.facebook.com/HamaikaTb/picture?width=200&height=200" group-title="AUTONOMICOS",Hamaika TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241704
+#EXTINF:-1 tvg-name="Tele 7" tvg-logo="https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200" group-title="AUTONOMICOS",Tele 7
+http://kristoteve.sportsontheweb.net/botijo/?c=241705
+#EXTINF:-1 tvg-name="Goiena Eus" tvg-logo="https://graph.facebook.com/goiena.eus/picture?width=200&height=200" group-title="AUTONOMICOS",Goiena Eus
+http://kristoteve.sportsontheweb.net/botijo/?c=241706
+#EXTINF:-1 tvg-name="Durangaldeko TV" tvg-logo="https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200" group-title="AUTONOMICOS",Durangaldeko TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241707
+#EXTINF:-1 tvg-name="Goierri Irrati TV" tvg-logo="https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200" group-title="AUTONOMICOS",Goierri Irrati TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241708
+#EXTINF:-1 tvg-name="28 Kanala" tvg-logo="https://graph.facebook.com/28kanala/picture?width=200&height=200" group-title="AUTONOMICOS",28 Kanala
+http://kristoteve.sportsontheweb.net/botijo/?c=241709
+#EXTINF:-1 tvg-name="like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160" tvg-logo="https://graph.facebook.com/312994995454199/picture?width=200&height=200" group-title="AUTONOMICOS",like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
+http://kristoteve.sportsontheweb.net/botijo/?c=241710
+#EXTINF:-1 tvg-name="Erlo TV" tvg-logo="https://graph.facebook.com/542582126141223/picture?width=200&height=200" group-title="AUTONOMICOS",Erlo TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241711
+#EXTINF:-1 tvg-name="Oizmendi TV" tvg-logo="https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200" group-title="AUTONOMICOS",Oizmendi TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241712
+#EXTINF:-1 tvg-name="Urola TV" tvg-logo="https://graph.facebook.com/urolatelebista/picture?width=200&height=200" group-title="AUTONOMICOS",Urola TV
+http://kristoteve.sportsontheweb.net/botijo/?c=241713
+#EXTINF:-1 tvg-name="7 R. de Murcia" tvg-logo="https://graph.facebook.com/la7tele/picture?width=200&height=200" group-title="AUTONOMICOS",7 R. de Murcia
+http://kristoteve.sportsontheweb.net/botijo/?c=241714
+#EXTINF:-1 tvg-name="Popular TV Murcia" tvg-logo="https://pbs.twimg.com/profile_images/1442865104614158343/5MprEWSZ_200x200.jpg" group-title="AUTONOMICOS",Popular TV Murcia
+http://kristoteve.sportsontheweb.net/botijo/?c=241715
+#EXTINF:-1 tvg-name="Canal 1 Mar Menor Torre Pacheco" tvg-logo="https://miguel.tuwebtv.es/images/canal_1.png" group-title="AUTONOMICOS",Canal 1 Mar Menor Torre Pacheco
+http://kristoteve.sportsontheweb.net/botijo/?c=241716
+#EXTINF:-1 tvg-name="TV3CAT GEO CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="AUTONOMICOS",TV3CAT GEO CAT
+http://kristoteve.sportsontheweb.net/botijo/?c=241717
+#EXTINF:-1 tvg-name="TV3CAT GEO" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="AUTONOMICOS",TV3CAT GEO
+http://kristoteve.sportsontheweb.net/botijo/?c=241718
+#EXTINF:-1 tvg-name="TV3CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="AUTONOMICOS",TV3CAT
+http://kristoteve.sportsontheweb.net/botijo/?c=241719
+#EXTINF:-1 tvg-name="EITB Basque" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="AUTONOMICOS",EITB Basque
+http://kristoteve.sportsontheweb.net/botijo/?c=241720
+#EXTINF:-1 tvg-name="TVG América" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=200&height=200" group-title="AUTONOMICOS",TVG América
+http://kristoteve.sportsontheweb.net/botijo/?c=241721
+#EXTINF:-1 tvg-name="ATV Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="AUTONOMICOS",ATV Andorra
+http://kristoteve.sportsontheweb.net/botijo/?c=241722
+#EXTINF:-1 tvg-name="ATV Web Andorra" tvg-logo="https://graph.facebook.com/rtva.andorra/picture?width=200&height=200" group-title="AUTONOMICOS",ATV Web Andorra
+http://kristoteve.sportsontheweb.net/botijo/?c=241723
+#EXTINF:-1 tvg-name="CNN Internacional" tvg-logo="https://graph.facebook.com/cnninternational/picture?width=320&height=320" group-title="AUTONOMICOS",CNN Internacional
+http://kristoteve.sportsontheweb.net/botijo/?c=241724
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK FHD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="LaLiga SmartBank y InStat TV",LALIGA SMARTBANK FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=229729
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK FHD (OP1)" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="LaLiga SmartBank y InStat TV",LALIGA SMARTBANK FHD (OP1)
+http://kristoteve.sportsontheweb.net/botijo/?c=229730
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK HD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="LaLiga SmartBank y InStat TV",LALIGA SMARTBANK HD
+http://kristoteve.sportsontheweb.net/botijo/?c=229731
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK SD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="LaLiga SmartBank y InStat TV",LALIGA SMARTBANK SD
+http://kristoteve.sportsontheweb.net/botijo/?c=229732
+#EXTINF:-1 tvg-name="GO&GO FHD" tvg-logo="https://www.goandgotv.com/images/GO_AND_GO_.png" group-title="LaLiga SmartBank y InStat TV",GO&GO FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=229733
+#EXTINF:-1 tvg-name="GO&GO FHD (OP1)" tvg-logo="https://www.goandgotv.com/images/GO_AND_GO_.png" group-title="LaLiga SmartBank y InStat TV",GO&GO FHD (OP1)
+http://kristoteve.sportsontheweb.net/botijo/?c=229734
+#EXTINF:-1 tvg-name="GO&GO SD" tvg-logo="https://www.goandgotv.com/images/GO_AND_GO_.png" group-title="LaLiga SmartBank y InStat TV",GO&GO SD
+http://kristoteve.sportsontheweb.net/botijo/?c=229735
+#EXTINF:-1 tvg-name="GO&GO HD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="LaLiga SmartBank y InStat TV",GO&GO HD
+http://kristoteve.sportsontheweb.net/botijo/?c=229736
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK M2 FHD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="LaLiga SmartBank y InStat TV",LALIGA SMARTBANK M2 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=233303
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK 1 FHD (OP1)" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="LaLiga SmartBank y InStat TV",LALIGA SMARTBANK 1 FHD (OP1)
+http://kristoteve.sportsontheweb.net/botijo/?c=233304
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK M2 HD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="LaLiga SmartBank y InStat TV",LALIGA SMARTBANK M2 HD
+http://kristoteve.sportsontheweb.net/botijo/?c=233305
+#EXTINF:-1 tvg-name="LALIGA SMARTBANK 1 SD" tvg-logo="https://www.diarioabierto.es/wp-content/uploads/2019/07/logo-la-liga-smartbank.jpg" group-title="LaLiga SmartBank y InStat TV",LALIGA SMARTBANK 1 SD
+http://kristoteve.sportsontheweb.net/botijo/?c=233306
+#EXTINF:-1 tvg-name="ES: INSTAT 01 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 01 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236215
+#EXTINF:-1 tvg-name="ES: INSTAT 02 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 02 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236216
+#EXTINF:-1 tvg-name="ES: INSTAT 03 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 03 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236217
+#EXTINF:-1 tvg-name="ES: INSTAT 04 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 04 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236218
+#EXTINF:-1 tvg-name="ES: INSTAT 05 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 05 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236219
+#EXTINF:-1 tvg-name="ES: INSTAT 06 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 06 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236220
+#EXTINF:-1 tvg-name="ES: INSTAT 07 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 07 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236221
+#EXTINF:-1 tvg-name="ES: INSTAT 08 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 08 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236222
+#EXTINF:-1 tvg-name="ES: INSTAT 09 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 09 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236223
+#EXTINF:-1 tvg-name="ES: INSTAT 10 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 10 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236224
+#EXTINF:-1 tvg-name="ES: INSTAT 11 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 11 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236225
+#EXTINF:-1 tvg-name="ES: INSTAT 12 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 12 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236226
+#EXTINF:-1 tvg-name="ES: INSTAT 13 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 13 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236227
+#EXTINF:-1 tvg-name="ES: INSTAT 14 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 14 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236228
+#EXTINF:-1 tvg-name="ES: INSTAT 15 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 15 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236229
+#EXTINF:-1 tvg-name="ES: INSTAT 16 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 16 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236230
+#EXTINF:-1 tvg-name="ES: INSTAT 17 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 17 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236231
+#EXTINF:-1 tvg-name="ES: INSTAT 18 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 18 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236232
+#EXTINF:-1 tvg-name="ES: INSTAT 19 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 19 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236233
+#EXTINF:-1 tvg-name="ES: INSTAT 20 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 20 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236234
+#EXTINF:-1 tvg-name="ES: INSTAT 21 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 21 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236235
+#EXTINF:-1 tvg-name="ES: INSTAT 22 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 22 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236236
+#EXTINF:-1 tvg-name="ES: INSTAT 23 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 23 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236237
+#EXTINF:-1 tvg-name="ES: INSTAT 24 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 24 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236238
+#EXTINF:-1 tvg-name="ES: INSTAT 25 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/InStat_logo_green.png" group-title="LaLiga SmartBank y InStat TV",ES: INSTAT 25 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=236239
+#EXTINF:-1 tvg-name="ESPAÑA | Liga SmartBank 3 FHD" group-title="LaLiga SmartBank y InStat TV",ESPAÑA | Liga SmartBank 3 FHD
+http://kristoteve.sportsontheweb.net/botijo/?c=243630
+#EXTINF:-1 tvg-name="ESPAÑA | Liga SmartBank 3" group-title="LaLiga SmartBank y InStat TV",ESPAÑA | Liga SmartBank 3
+http://kristoteve.sportsontheweb.net/botijo/?c=243631
+#EXTINF:-1 tvg-name="•●★-- 24/7 España TV Show --★●" group-title="24 HORAS ESPAÑA",•●★-- 24/7 España TV Show --★●
+http://kristoteve.sportsontheweb.net/botijo/?c=214777
+#EXTINF:-1 tvg-name="ES: 091 Alerta Policia HD 24H" tvg-logo="http://swedtv.net:8080/images/05a41fda160286acd49e5007bee70197.png" group-title="24 HORAS ESPAÑA",ES: 091 Alerta Policia HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214778
+#EXTINF:-1 tvg-name="ES: Amazonas Clandestino HD 24H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Amaszonas_Linea_Aerea_Logo.svg/2560px-Amaszonas_Linea_Aerea_Logo.svg.png" group-title="24 HORAS ESPAÑA",ES: Amazonas Clandestino HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214779
+#EXTINF:-1 tvg-name="ES: Callejeros 24H" tvg-logo="http://swedtv.net:8080/images/9068f1cb147f2c3eba8d662ced1781b4.png" group-title="24 HORAS ESPAÑA",ES: Callejeros 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214780
+#EXTINF:-1 tvg-name="ES: Callejeros Viajeros 24H" tvg-logo="http://swedtv.net:8080/images/9068f1cb147f2c3eba8d662ced1781b4.png" group-title="24 HORAS ESPAÑA",ES: Callejeros Viajeros 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214781
+#EXTINF:-1 tvg-name="ES: Cuarto Milenio HD 24H" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-04171b0da7.png" group-title="24 HORAS ESPAÑA",ES: Cuarto Milenio HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214782
+#EXTINF:-1 tvg-name="ES: Empeños a lo Bestia HD 24H" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-be211ed96d.png" group-title="24 HORAS ESPAÑA",ES: Empeños a lo Bestia HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214783
+#EXTINF:-1 tvg-name="ES: Españoles En El Mundo HD 24H" tvg-logo="http://swedtv.net:8080/images/27b3dc5db437de862708507860045f9e.png" group-title="24 HORAS ESPAÑA",ES: Españoles En El Mundo HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214784
+#EXTINF:-1 tvg-name="ES: En Tierra Hostil HD 24H" tvg-logo="http://swedtv.net:8080/images/cc40c8d03f7ecd11078e73759f638be8.png" group-title="24 HORAS ESPAÑA",ES: En Tierra Hostil HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214785
+#EXTINF:-1 tvg-name="ES: El Encantador de Perros HD 24H" tvg-logo="http://swedtv.net:8080/images/281625d7d2e3373191323c0653e410b7.png" group-title="24 HORAS ESPAÑA",ES: El Encantador de Perros HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214786
+#EXTINF:-1 tvg-name="ES: Forjado a Fuego HD 24H" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-936d2f1a1e.png" group-title="24 HORAS ESPAÑA",ES: Forjado a Fuego HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214787
+#EXTINF:-1 tvg-name="ES: Policías en Acción HD 24H" tvg-logo="http://swedtv.net:8080/images/973bb92d0bdfab6d8d339226afdcc7db.png" group-title="24 HORAS ESPAÑA",ES: Policías en Acción HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214788
+#EXTINF:-1 tvg-name="ES: Los cazadores de mitos HD 24H" tvg-logo="http://swedtv.net:8080/images/d99687104c2b939aa2e3f2872b0c0b9b.png" group-title="24 HORAS ESPAÑA",ES: Los cazadores de mitos HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214789
+#EXTINF:-1 tvg-name="ES: Quien vive ahi HD 24H" tvg-logo="http://swedtv.net:8080/images/095c256a228addc3a6c4104c4ec386a1.png" group-title="24 HORAS ESPAÑA",ES: Quien vive ahi HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214790
+#EXTINF:-1 tvg-name="ES: Wild Frank HD 24H" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-c4d0f60367.png" group-title="24 HORAS ESPAÑA",ES: Wild Frank HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214791
+#EXTINF:-1 tvg-name="•●★-- 24/7 España Drama --★●" group-title="24 HORAS ESPAÑA",•●★-- 24/7 España Drama --★●
+http://kristoteve.sportsontheweb.net/botijo/?c=214792
+#EXTINF:-1 tvg-name="ES: La Biblia Series HD 24H" tvg-logo="http://swedtv.net:8080/images/55d55254d6bf10b429731c0b06255332.png" group-title="24 HORAS ESPAÑA",ES: La Biblia Series HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214793
+#EXTINF:-1 tvg-name="•●★-- 24/7 España Caricaturas --★●" tvg-logo="http://swedtv.net:8080/images/dfb116044dba486387e147da936e37c7.png" group-title="24 HORAS ESPAÑA",•●★-- 24/7 España Caricaturas --★●
+http://kristoteve.sportsontheweb.net/botijo/?c=214794
+#EXTINF:-1 tvg-name="ES: Ben Y Holly 24H" tvg-logo="https://e7.pngegg.com/pngimages/514/702/png-clipart-children-s-television-series-entertainment-one-television-show-elf-ben-and-holly.png" group-title="24 HORAS ESPAÑA",ES: Ben Y Holly 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214795
+#EXTINF:-1 tvg-name="ES: Barbapapa 24H" tvg-logo="http://swedtv.net:8080/images/eac546f72b5befb299304bd58b16b776.png" group-title="24 HORAS ESPAÑA",ES: Barbapapa 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214796
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Torneo Galactico SD (1-40) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24 HORAS ESPAÑA",ES: Caballeros del Zodiaco Torneo Galactico SD (1-40) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214797
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24 HORAS ESPAÑA",ES: Caballeros del Zodiaco Torneo Galactico HD (1-40) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214798
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Santuario SD (41-73) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24 HORAS ESPAÑA",ES: Caballeros del Zodiaco Santuario SD (41-73) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214799
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Santuario HD (41-73) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24 HORAS ESPAÑA",ES: Caballeros del Zodiaco Santuario HD (41-73) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214800
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Asgard SD (74-99) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24 HORAS ESPAÑA",ES: Caballeros del Zodiaco Asgard SD (74-99) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214801
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Asgard HD (74-99) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24 HORAS ESPAÑA",ES: Caballeros del Zodiaco Asgard HD (74-99) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214802
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Poseidon SD (100-114) 24H" tvg-logo="http://swedtv.net:8080/images/8666acaac116736ee1b3a60c61e715d9.png" group-title="24 HORAS ESPAÑA",ES: Caballeros del Zodiaco Poseidon SD (100-114) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214803
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H" tvg-logo="https://e7.pngegg.com/pngimages/615/390/png-clipart-saint-seiya-knights-of-the-zodiac-pegasus-seiya-saint-seiya-brave-soldiers-anime-cavaleiros-do-zodiaco-game-text.png" group-title="24 HORAS ESPAÑA",ES: Caballeros del Zodiaco Poseidon HD (100-114) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214804
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Hades SD (115-145) 24H" tvg-logo="https://e7.pngegg.com/pngimages/615/390/png-clipart-saint-seiya-knights-of-the-zodiac-pegasus-seiya-saint-seiya-brave-soldiers-anime-cavaleiros-do-zodiaco-game-text.png" group-title="24 HORAS ESPAÑA",ES: Caballeros del Zodiaco Hades SD (115-145) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214805
+#EXTINF:-1 tvg-name="ES: Caballeros del Zodiaco Hades HD (115-145) 24H" tvg-logo="https://e7.pngegg.com/pngimages/615/390/png-clipart-saint-seiya-knights-of-the-zodiac-pegasus-seiya-saint-seiya-brave-soldiers-anime-cavaleiros-do-zodiaco-game-text.png" group-title="24 HORAS ESPAÑA",ES: Caballeros del Zodiaco Hades HD (115-145) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214806
+#EXTINF:-1 tvg-name="ES: Los Simpsons La casa-árbol del terror SD 24H" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-6e2166119b.png" group-title="24 HORAS ESPAÑA",ES: Los Simpsons La casa-árbol del terror SD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214807
+#EXTINF:-1 tvg-name="ES: Los Simpsons La casa-árbol del terror HD 24H" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-6e2166119b.png" group-title="24 HORAS ESPAÑA",ES: Los Simpsons La casa-árbol del terror HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214808
+#EXTINF:-1 tvg-name="ES: Los Simpsons Temp 1-5 24H" tvg-logo="https://c0.klipartz.com/pngpicture/407/279/gratis-png-lisa-simpson-bart-simpson-maggie-simpson-homer-simpson-simpson-familia-bart-simpson.png" group-title="24 HORAS ESPAÑA",ES: Los Simpsons Temp 1-5 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214809
+#EXTINF:-1 tvg-name="ES: Los Simpsons HD 24H" tvg-logo="http://swedtv.net:8080/images/3a7f02bccddaf256c59a555bde12c702.png" group-title="24 HORAS ESPAÑA",ES: Los Simpsons HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214810
+#EXTINF:-1 tvg-name="ES: Futurama 24H" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-796cbf0689.png" group-title="24 HORAS ESPAÑA",ES: Futurama 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214811
+#EXTINF:-1 tvg-name="ES: Futurama HD 24H" tvg-logo="http://swedtv.net:8080/images/ea6cf2e0a6c2a6490606b26b05078c97.png" group-title="24 HORAS ESPAÑA",ES: Futurama HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214812
+#EXTINF:-1 tvg-name="ES: Padre de Familia 24H" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-06480188d3.png" group-title="24 HORAS ESPAÑA",ES: Padre de Familia 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214813
+#EXTINF:-1 tvg-name="ES: Fabulas de Disney 24H" tvg-logo="http://swedtv.net:8080/images/b1a7ef736fc48702be21d927a3f036e3.png" group-title="24 HORAS ESPAÑA",ES: Fabulas de Disney 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214814
+#EXTINF:-1 tvg-name="ES: Patrulla Canina 24H" tvg-logo="http://swedtv.net:8080/images/bfb5db45300e6ea6133ce849b5eaf5d0.png" group-title="24 HORAS ESPAÑA",ES: Patrulla Canina 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214815
+#EXTINF:-1 tvg-name="ES: Vaca y Pollito 24h" tvg-logo="http://swedtv.net:8080/images/19fb39e0ec3eb738b210317270e2585f.png" group-title="24 HORAS ESPAÑA",ES: Vaca y Pollito 24h
+http://kristoteve.sportsontheweb.net/botijo/?c=214816
+#EXTINF:-1 tvg-name="ES: Super Wings 24H" tvg-logo="http://swedtv.net:8080/images/a6af703ee05d319a9f3253bd4f89f633.png" group-title="24 HORAS ESPAÑA",ES: Super Wings 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214817
+#EXTINF:-1 tvg-name="ES: El Bebé Jefazo (Vuelta al curro) 24H" tvg-logo="http://swedtv.net:8080/images/6dc62ac946efe3afa1694c9f113f806d.png" group-title="24 HORAS ESPAÑA",ES: El Bebé Jefazo (Vuelta al curro) 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214818
+#EXTINF:-1 tvg-name="ES: Wabbit 24H" tvg-logo="http://swedtv.net:8080/images/82871df72d2277070ef5c5ca7c35e385.png" group-title="24 HORAS ESPAÑA",ES: Wabbit 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214819
+#EXTINF:-1 tvg-name="ES: Kim Possible SD 24H" tvg-logo="https://www.pngfind.com/pngs/m/532-5323140_kim-possible-logo-png-transparent-kim-possible-new.png" group-title="24 HORAS ESPAÑA",ES: Kim Possible SD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214820
+#EXTINF:-1 tvg-name="ES: Kim Possible HD 24H" tvg-logo="https://www.pngfind.com/pngs/m/532-5323140_kim-possible-logo-png-transparent-kim-possible-new.png" group-title="24 HORAS ESPAÑA",ES: Kim Possible HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214821
+#EXTINF:-1 tvg-name="ES: Lilo y Stitch SD 24H" tvg-logo="http://swedtv.net:8080/images/2efefb3226a6b9c730a00e52aa302203.png" group-title="24 HORAS ESPAÑA",ES: Lilo y Stitch SD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214822
+#EXTINF:-1 tvg-name="ES: Lilo y Stitch HD 24H" tvg-logo="http://swedtv.net:8080/images/2efefb3226a6b9c730a00e52aa302203.png" group-title="24 HORAS ESPAÑA",ES: Lilo y Stitch HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214823
+#EXTINF:-1 tvg-name="ES: Heroes Mitologicos 24H" tvg-logo="http://swedtv.net:8080/images/fef7d636c7cfadb2cdff04ccf23c0e7a.png" group-title="24 HORAS ESPAÑA",ES: Heroes Mitologicos 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214824
+#EXTINF:-1 tvg-name="ES: Teen Titans Go! 24H" tvg-logo="https://p.kindpng.com/picc/s/24-248175_teen-titans-go-image-teen-titans-go-png.png" group-title="24 HORAS ESPAÑA",ES: Teen Titans Go! 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214825
+#EXTINF:-1 tvg-name="ES: Zak Storm 24H" tvg-logo="https://image.pngaaa.com/15/1655015-middle.png" group-title="24 HORAS ESPAÑA",ES: Zak Storm 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214826
+#EXTINF:-1 tvg-name="ES: Johnny Test 24H" tvg-logo="https://flyclipart.com/thumb2/johnny-test-897149.png" group-title="24 HORAS ESPAÑA",ES: Johnny Test 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214827
+#EXTINF:-1 tvg-name="ES: Garfield y amigos 24H" tvg-logo="https://w1.pngwing.com/pngs/175/868/png-transparent-friends-garfield-cat-paws-inc-line-sticker-text-cartoon-thumbnail.png" group-title="24 HORAS ESPAÑA",ES: Garfield y amigos 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214828
+#EXTINF:-1 tvg-name="ES: El Show de los Looney Tunes 24H" tvg-logo="https://e7.pngegg.com/pngimages/112/686/png-clipart-wile-e-coyote-and-the-road-runner-television-show-looney-tunes-foghorn-leghorn-road-runner-wile-e-coyote-and-the-road-runner-television-show-thumbnail.png" group-title="24 HORAS ESPAÑA",ES: El Show de los Looney Tunes 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214829
+#EXTINF:-1 tvg-name="•●★-- 24/7 España Crimen --★●" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/2018_11_Cineseries_logo_big.png" group-title="24 HORAS ESPAÑA",•●★-- 24/7 España Crimen --★●
+http://kristoteve.sportsontheweb.net/botijo/?c=214830
+#EXTINF:-1 tvg-name="ES: NCIS Los Angeles HD 24H" tvg-logo="http://swedtv.net:8080/images/553162d1e6c9e75bfd0de5e3d06e0f00.png" group-title="24 HORAS ESPAÑA",ES: NCIS Los Angeles HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214831
+#EXTINF:-1 tvg-name="ES: NCIS Nueva Orleans HD 24H" tvg-logo="http://swedtv.net:8080/images/553162d1e6c9e75bfd0de5e3d06e0f00.png" group-title="24 HORAS ESPAÑA",ES: NCIS Nueva Orleans HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214832
+#EXTINF:-1 tvg-name="ES: NCIS Navy Investigación Criminal) HD 24H" tvg-logo="http://swedtv.net:8080/images/553162d1e6c9e75bfd0de5e3d06e0f00.png" group-title="24 HORAS ESPAÑA",ES: NCIS Navy Investigación Criminal) HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214833
+#EXTINF:-1 tvg-name="ES: CSI Las Vegas HD 24H" tvg-logo="http://swedtv.net:8080/images/bbdd85bc2dbc44b746cd1cfa520d4303.png" group-title="24 HORAS ESPAÑA",ES: CSI Las Vegas HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214834
+#EXTINF:-1 tvg-name="ES: El Caso HD 24H" group-title="24 HORAS ESPAÑA",ES: El Caso HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214835
+#EXTINF:-1 tvg-name="•●★-- 24/7 España Comedia --★●" group-title="24 HORAS ESPAÑA",•●★-- 24/7 España Comedia --★●
+http://kristoteve.sportsontheweb.net/botijo/?c=214836
+#EXTINF:-1 tvg-name="ES: La Que se Avecina 24H" tvg-logo="https://phantom-marca.unidadeditorial.es/ded92e73fc6b93108e2b67ab618e3eec/resize/1200/f/jpg/assets/multimedia/imagenes/2022/03/07/16466874641534.png" group-title="24 HORAS ESPAÑA",ES: La Que se Avecina 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214837
+#EXTINF:-1 tvg-name="ES: Pippi Calzaslargas 24H" tvg-logo="https://w7.pngwing.com/pngs/643/891/png-transparent-character-pippi-longing-cartoon-fictional-character-art-thumbnail.png" group-title="24 HORAS ESPAÑA",ES: Pippi Calzaslargas 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214838
+#EXTINF:-1 tvg-name="ES: El Principe de Bel Air HD 24H" tvg-logo="https://e1.pngegg.com/pngimages/294/320/png-clipart-the-fresh-prince-of-bel-air-season-6.png" group-title="24 HORAS ESPAÑA",ES: El Principe de Bel Air HD 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214839
+#EXTINF:-1 tvg-name="•●★-- 24/7 España Sci-Fi --★●" group-title="24 HORAS ESPAÑA",•●★-- 24/7 España Sci-Fi --★●
+http://kristoteve.sportsontheweb.net/botijo/?c=214840
+#EXTINF:-1 tvg-name="ES: Xena La Princesa Guerrera 24H" tvg-logo="https://w7.pngwing.com/pngs/170/403/png-transparent-xena-gabrielle-youtube-television-show-warrior-television-logo-fictional-character.png" group-title="24 HORAS ESPAÑA",ES: Xena La Princesa Guerrera 24H
+http://kristoteve.sportsontheweb.net/botijo/?c=214841
+#EXTINF:-1 tvg-name="ES: Expedientes X SD" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-8b6437aef1.png" group-title="24 HORAS ESPAÑA",ES: Expedientes X SD
+http://kristoteve.sportsontheweb.net/botijo/?c=214842
